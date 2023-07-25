@@ -1,0 +1,1773 @@
+,person_id,full_name,gender,graduate_degree,mfa_degree,award,prize_amount
+0,1.0,A. B. Guthrie Jr,male,0,no mfa,1.0,15000.0
+1,2.0,A. E. Stallings,female,1,no mfa,3.0,570000.0
+2,3.0,A. G. Mojtabai,female,1,no mfa,2.0,20000.0
+3,4.0,A. J. Verdelle,female,1,Bard College,2.0,70000.0
+4,6.0,A. R. Ammons,male,1,no mfa,9.0,900000.0
+5,10.0,Achy Obejas,female,1,Warren Wilson College,1.0,50000.0
+6,12.0,Adam Foulds,male,1,no mfa,1.0,10000.0
+7,13.0,Adam Haslett,male,1,University of Iowa,1.0,100000.0
+8,14.0,Adam Hochschild,male,0,no mfa,2.0,25000.0
+9,15.0,Adam Johnson,male,1,McNeese State University,3.0,75000.0
+10,17.0,Adam Thirlwell,male,1,no mfa,1.0,10000.0
+11,18.0,Adria Bernardi,female,1,no mfa,1.0,15000.0
+12,19.0,Adrian Blevins,female,1,Warren Wilson College,1.0,10000.0
+13,20.0,Adrian Castro,male,0,no mfa,1.0,50000.0
+14,21.0,Adrian Matejka,male,1,Southern Illinois State University,2.0,100000.0
+15,22.0,Adriana Ramirez,female,1,University of Pittsburgh,1.0,10000.0
+16,24.0,Adrienne Kennedy,female,0,no mfa,1.0,10000.0
+17,25.0,Adrienne Rich,female,1,no mfa,8.0,920000.0
+18,26.0,Afaa Michael Weaver,male,1,no mfa,1.0,100000.0
+19,28.0,Agymah Kamau,male,1,Virginia Commonwealth University,1.0,50000.0
+20,29.0,Ahdaf Soueif,male,1,no mfa,1.0,50000.0
+21,30.0,Ai Ogawa,female,1,"Univeristy of California, Irvine",2.0,60000.0
+22,32.0,Akhil Sharma,male,1,no mfa,2.0,60000.0
+23,34.0,Al Kennedy,female,0,no mfa,1.0,200000.0
+24,37.0,Alan Dugan,male,0,no mfa,5.0,195000.0
+25,38.0,Alan Furst,male,1,no mfa,1.0,40000.0
+26,39.0,Alan Heathcock,male,1,"Bowling Green State University, Boise State University",1.0,50000.0
+27,40.0,Alan Hewat,male,0,no mfa,1.0,10000.0
+28,41.0,Alan Hollinghurst,male,1,no mfa,1.0,10000.0
+29,44.0,Alan Saperstein,male,0,no mfa,1.0,10000.0
+30,45.0,Alan Shapiro,male,1,no mfa,3.0,120000.0
+31,49.0,Albert Guerard,male,1,no mfa,1.0,10000.0
+32,50.0,Albert Mobilio,male,0,no mfa,1.0,50000.0
+33,52.0,Albertf Moritz,male,1,no mfa,1.0,10000.0
+34,54.0,Aldous Huxley,male,0,no mfa,1.0,25000.0
+35,55.0,Aleksandar Hemon,male,1,no mfa,2.0,510000.0
+36,56.0,Aleksander Hemon,male,1,no mfa,1.0,50000.0
+37,58.0,Alex Haley,male,0,no mfa,1.0,15000.0
+38,59.0,Alex Kotlowitz,male,0,no mfa,1.0,20000.0
+39,60.0,Alex Ross,male,0,no mfa,1.0,10000.0
+40,61.0,Alexander Chee,male,1,University of Iowa,1.0,50000.0
+41,62.0,Alexander Greendale,male,1,no mfa,1.0,10000.0
+42,64.0,Alexander Theroux,male,1,no mfa,1.0,150000.0
+43,67.0,Alfred Corn,male,1,no mfa,2.0,35000.0
+44,68.0,Alfred Hayes,male,0,no mfa,1.0,10000.0
+45,69.0,Alfred Kazin,male,0,no mfa,1.0,10000.0
+46,71.0,Ali Cobbyeckermann,female,0,no mfa,1.0,165000.0
+47,72.0,Alice Adams,female,0,no mfa,1.0,10000.0
+48,74.0,Alice Fulton,female,1,Cornell University,2.0,510000.0
+49,76.0,Alice McDermott,female,1,no mfa,2.0,60000.0
+50,78.0,Alice Munro,female,0,no mfa,1.0,150000.0
+51,79.0,Alice Notley,female,1,University of Iowa,3.0,135000.0
+52,81.0,Alice Sola Kim,female,1,Washington University,1.0,50000.0
+53,82.0,Alice Walker,female,0,no mfa,3.0,35000.0
+54,85.0,Alison Lurie,female,0,no mfa,2.0,25000.0
+55,86.0,Alison Rollins,female,1,no mfa,1.0,25800.0
+56,87.0,Alison Stine,female,1,University of Maryland,1.0,25800.0
+57,88.0,Alissa Leigh,female,0,no mfa,1.0,25800.0
+58,89.0,Alistair Macleod,male,1,no mfa,1.0,150000.0
+59,91.0,Allegra Goodman,female,1,no mfa,1.0,50000.0
+60,92.0,Allen Drury,male,0,no mfa,1.0,15000.0
+61,93.0,Allen Ginsberg,male,0,no mfa,2.0,20000.0
+62,94.0,Allen Grossman,male,1,no mfa,3.0,520000.0
+63,95.0,Allen Tate,male,0,no mfa,6.0,140000.0
+64,96.0,Allison Glock,female,1,no mfa,1.0,50000.0
+65,99.0,Allison Seay,female,1,University of North Carolina,1.0,25800.0
+66,100.0,Amanda Coplin,female,1,University of Minnesota,1.0,50000.0
+67,101.0,Aminatta Forna,female,0,no mfa,1.0,165000.0
+68,102.0,Amitav Ghosh,male,1,no mfa,1.0,50000.0
+69,103.0,Amitava Kumar,male,1,no mfa,1.0,50000.0
+70,105.0,Amy Clampitt,female,0,no mfa,3.0,535000.0
+71,107.0,Amy Hempel,female,0,no mfa,2.0,70000.0
+72,108.0,Amy Herzog,female,1,Yale University,1.0,50000.0
+73,109.0,Amy Leach,female,1,University of Iowa,1.0,50000.0
+74,110.0,Amy Lowell,female,0,no mfa,1.0,15000.0
+75,112.0,Amy Rowland,female,0,no mfa,1.0,10000.0
+76,113.0,Amy Wilentz,female,0,no mfa,2.0,60000.0
+77,114.0,An Wilson,male,1,no mfa,1.0,10000.0
+78,118.0,Anderson Ferrell,male,1,no mfa,1.0,50000.0
+79,119.0,Andre Aciman,male,1,no mfa,1.0,50000.0
+80,120.0,Andre Alexis,male,0,no mfa,1.0,165000.0
+81,121.0,Andre Dubus,male,1,University of Iowa,2.0,510000.0
+82,122.0,Andrea Barrett,female,0,no mfa,3.0,520000.0
+83,123.0,Andrea Lawlor,nonbinary/they,1,"University of Massachusetts, Amherst",1.0,50000.0
+84,125.0,Andrew Bacevich,male,1,no mfa,1.0,150000.0
+85,127.0,Andrew O'Hagan,male,0,no mfa,1.0,10000.0
+86,128.0,Andrew Pham,male,0,no mfa,1.0,50000.0
+87,129.0,Andrew Sean Greer,male,1,University of Montana,1.0,15000.0
+88,131.0,Angel Nafis,female,1,Warren Wilson College,1.0,25800.0
+89,134.0,Angela Johnson,female,0,no mfa,1.0,500000.0
+90,135.0,Angela Morales,female,1,University of Iowa,1.0,15000.0
+91,137.0,Angie Estes,female,1,no mfa,1.0,100000.0
+92,138.0,Angus Fletcher,male,1,no mfa,1.0,20000.0
+93,140.0,Ann Arsensberg,female,1,no mfa,1.0,10000.0
+94,141.0,Ann Beattie,female,1,no mfa,1.0,10000.0
+95,142.0,Ann Cornelisen,female,0,no mfa,1.0,10000.0
+96,143.0,Ann Cummins,female,1,University of Arizona,1.0,50000.0
+97,144.0,Ann Goldstein,female,0,no mfa,1.0,10000.0
+98,146.0,Ann Lauterbach,female,0,no mfa,1.0,500000.0
+99,148.0,Ann Pancake,female,1,no mfa,1.0,50000.0
+100,149.0,Ann Patchett,female,1,University of Iowa,3.0,75000.0
+101,150.0,Ann Stanford,female,1,no mfa,1.0,10000.0
+102,153.0,Anne Boyer,female,1,Wichita State University,1.0,50000.0
+103,154.0,Anne Carson,female,1,no mfa,2.0,650000.0
+104,156.0,Anne Hollander,female,0,no mfa,1.0,20000.0
+105,158.0,Anne Michaels,male,0,no mfa,1.0,150000.0
+106,159.0,Anne Sanow,female,1,Washington University,1.0,15000.0
+107,160.0,Anne Sexton,female,0,no mfa,1.0,15000.0
+108,161.0,Anne Stevenson,male,0,no mfa,1.0,200000.0
+109,162.0,Anne Tyler,female,0,no mfa,2.0,25000.0
+110,164.0,Anne Washburn,female,1,New York University,1.0,50000.0
+111,165.0,Anne Winters,female,1,no mfa,2.0,35000.0
+112,166.0,Annie Baker,female,1,Brooklyn College,2.0,60000.0
+113,167.0,Annie Dillard,female,1,no mfa,2.0,25000.0
+114,170.0,Annie Proulx,female,1,no mfa,4.0,90000.0
+115,171.0,Anthony Carelli,male,1,New York University,1.0,50000.0
+116,172.0,Anthony Doerr,male,1,Bowling Green State University,1.0,15000.0
+117,173.0,Anthony Hecht,male,1,no mfa,8.0,355000.0
+118,174.0,Anthony Marra,male,1,University of Iowa,3.0,110000.0
+119,175.0,Anthony Varallo,male,1,University of Iowa,1.0,15000.0
+120,176.0,Anthony Wallace,male,1,no mfa,1.0,15000.0
+121,177.0,Anthony Walton,male,1,Brown University,1.0,50000.0
+122,179.0,Antoinette Nwanda,female,1,no mfa,1.0,50000.0
+123,180.0,Antonya Nelson,female,1,University of Arizona,1.0,50000.0
+124,181.0,Aracelis Girmay,female,1,New York University,2.0,60000.0
+125,183.0,Archibald Macleish,male,1,no mfa,5.0,75000.0
+126,184.0,Aria Aber,female,1,New York University,1.0,50000.0
+127,185.0,Ariana Reines,female,1,no mfa,1.0,100000.0
+128,187.0,Arlene Croce,female,0,no mfa,1.0,10000.0
+129,188.0,Arna Bontemps Hemenway,male,1,University of Iowa,1.0,10000.0
+130,190.0,Arnost Lustig,male,0,no mfa,1.0,10000.0
+131,192.0,Arthur Kopit,male,0,no mfa,1.0,10000.0
+132,193.0,Arthur Laurents,male,0,no mfa,1.0,10000.0
+133,195.0,"Arthur Schlesinger, Jr",male,0,no mfa,1.0,10000.0
+134,196.0,Arthur Sze,male,0,no mfa,3.0,235000.0
+135,197.0,Arturo Vivante,male,0,no mfa,1.0,10000.0
+136,198.0,Atsuro Riley,male,0,no mfa,3.0,110000.0
+137,199.0,Atticus Lish,male,0,no mfa,2.0,35000.0
+138,200.0,Audrey Wurdemann,female,0,no mfa,1.0,15000.0
+139,201.0,August Kleinzahler,male,0,no mfa,3.0,180000.0
+140,202.0,August Wilson,male,0,no mfa,2.0,60000.0
+141,203.0,Austin Warren,male,1,no mfa,1.0,10000.0
+142,204.0,Austin Wright,male,1,no mfa,1.0,50000.0
+143,205.0,Avan Jordan,male,1,Warren Wilson College,3.0,250000.0
+144,206.0,Ayad Akhtar,male,1,no mfa,1.0,10000.0
+145,207.0,Azareen Van Der Vliet Oloomi,female,1,Brown University,2.0,65000.0
+146,208.0,B. H. Fairchild,male,1,no mfa,3.0,130000.0
+147,213.0,Barbara Croft,female,1,no mfa,1.0,15000.0
+148,214.0,Barbara Ehrenreich,female,1,no mfa,1.0,10000.0
+149,216.0,Barbara Hamby,female,1,no mfa,1.0,10000.0
+150,217.0,Barbara Howes,female,0,no mfa,1.0,10000.0
+151,219.0,Barbara Ras,female,1,University of Oregon,1.0,10000.0
+152,220.0,Barry Hannah,male,1,University of Arkansas,2.0,60000.0
+153,221.0,Barry Lopez,male,1,no mfa,1.0,10000.0
+154,222.0,Ben Belitt,male,1,no mfa,1.0,10000.0
+155,223.0,Ben Fountain,male,1,no mfa,3.0,75000.0
+156,224.0,Ben Lerner,male,1,Brown University,1.0,625000.0
+157,225.0,Ben Marcus,male,1,Brown University,2.0,60000.0
+158,228.0,Benjamin Percy,male,1,Southern Illinois State University,1.0,50000.0
+159,230.0,Benjamine Alire Saenz,male,1,"University of Texas, El Paso",2.0,165000.0
+160,232.0,Benson Bobrick,male,1,no mfa,1.0,10000.0
+161,233.0,Bernard Cooper,male,1,California Institute of the Arts,1.0,10000.0
+162,234.0,Bernard Knox,male,1,no mfa,1.0,15000.0
+163,235.0,Bernard Malamud,male,1,no mfa,4.0,45000.0
+164,236.0,Bernard M. W. Knox,male,1,no mfa,1.0,10000.0
+165,237.0,Bertolt Brecht,male,0,no mfa,1.0,10000.0
+166,238.0,Berton Roueche,male,0,no mfa,1.0,10000.0
+167,239.0,Beth Ann Fennelly,female,1,University of Arkansas,1.0,50000.0
+168,240.0,Beth Bachmann,female,1,no mfa,1.0,10000.0
+169,241.0,Beth Bosworth,female,1,no mfa,1.0,15000.0
+170,243.0,Bette Howland,female,0,no mfa,1.0,500000.0
+171,248.0,Bhanu Kapil,female,1,SUNY Brookport,1.0,165000.0
+172,251.0,Bill McKibben,male,0,no mfa,1.0,10000.0
+173,252.0,Billy Collins,male,1,no mfa,4.0,145000.0
+174,254.0,Blake Bailey,male,1,no mfa,1.0,10000.0
+175,255.0,Blake Morrison,male,1,no mfa,1.0,10000.0
+176,257.0,Bob Hicok,male,1,Vermont College of Fine Arts ,1.0,10000.0
+177,260.0,Bob Shacochis,male,0,no mfa,1.0,10000.0
+178,261.0,Bobbie Ann Mason,female,1,no mfa,2.0,20000.0
+179,263.0,Bonnie Nadzam,female,1,no mfa,1.0,15000.0
+180,264.0,Booth Tarkington,male,0,no mfa,2.0,30000.0
+181,265.0,Brad Felver,male,1,Bowling Green State University,1.0,15000.0
+182,266.0,Brad Kessler,male,1,New School for Social Research,1.0,50000.0
+183,267.0,Brad Leithauser,male,1,no mfa,1.0,500000.0
+184,268.0,Brad Watson,male,1,University of Alabama,1.0,10000.0
+185,269.0,Bradford Morrow,male,1,no mfa,1.0,10000.0
+186,270.0,Brando Skyhorse,male,1,"Univeristy of California, Irvine",1.0,10000.0
+187,271.0,Brandon Som,male,1,University of Pittsburgh,1.0,10000.0
+188,273.0,Brenda Hillman,female,1,University of Iowa,2.0,35000.0
+189,274.0,Brenda Shaughnessy,female,1,Columbia University,1.0,10000.0
+190,275.0,Brenda Wineapple,female,1,no mfa,1.0,10000.0
+191,276.0,Brendan Galvin,male,1,"University of Massachusetts, Amherst",1.0,10000.0
+192,277.0,Brendan Gill,male,0,no mfa,1.0,10000.0
+193,278.0,Brett Ellen Block,female,1,University of Iowa,1.0,15000.0
+194,279.0,Brewster Ghiselin,male,1,no mfa,1.0,10000.0
+195,280.0,Brian Blanchfield,male,1,Warren Wilson College,1.0,50000.0
+196,281.0,Brian Doyle,male,0,no mfa,1.0,10000.0
+197,284.0,Brian Kiteley,male,1,City College of New York,1.0,50000.0
+198,285.0,Brian Moore,male,0,no mfa,1.0,10000.0
+199,286.0,Brian Morton,male,0,no mfa,1.0,10000.0
+200,287.0,Brian Turner,male,1,University of Oregon,2.0,100000.0
+201,288.0,Brighde Mullins,female,1,"University of Iowa, Yale University",2.0,100000.0
+202,289.0,Brigid Pasulka,female,1,no mfa,1.0,10000.0
+203,290.0,Brigit Pegeen Kelly,female,0,no mfa,2.0,75000.0
+204,291.0,Brontez Purnell,male,0,no mfa,1.0,50000.0
+205,292.0,Brooklyn Copeland,female,0,no mfa,1.0,25800.0
+206,293.0,Bruce Chatwin,male,0,no mfa,1.0,10000.0
+207,294.0,Bruce Duffy,male,0,no mfa,1.0,50000.0
+208,295.0,Bruce Norris,male,0,no mfa,2.0,60000.0
+209,296.0,Bruce Smith,male,1,no mfa,1.0,10000.0
+210,297.0,Bruce Weigl,male,1,no mfa,1.0,150000.0
+211,299.0,Burton Watson,male,1,no mfa,1.0,10000.0
+212,300.0,C. D. Wright,female,1,University of Arkansas,4.0,725000.0
+213,301.0,C. E. Morgan,female,1,no mfa,5.0,365000.0
+214,302.0,C. K. Williams,male,0,no mfa,5.0,145000.0
+215,304.0,C. Vann Woodward,male,1,no mfa,1.0,10000.0
+216,305.0,Caitriona Lally,female,0,no mfa,1.0,50000.0
+217,306.0,Caki Wilkinson,female,1,Johns Hopkins University,1.0,25800.0
+218,308.0,Campbell McGrath,male,1,Columbia University,3.0,775000.0
+219,309.0,Carl Dennis,male,1,no mfa,2.0,115000.0
+220,310.0,Carl Phillips,male,1,no mfa,3.0,135000.0
+221,311.0,Carl Sandburg,male,0,no mfa,2.0,30000.0
+222,313.0,Carlo Rotella,male,1,no mfa,1.0,50000.0
+223,315.0,Carmen Giménez-Smith,female,1,University of Iowa,1.0,25000.0
+224,316.0,Carol Ann Duffy,female,0,no mfa,2.0,160000.0
+225,317.0,Carol Brightman,female,1,no mfa,1.0,10000.0
+226,320.0,Carol Shields,female,1,no mfa,1.0,15000.0
+227,321.0,Carole Maso,female,0,no mfa,1.0,150000.0
+228,323.0,Caroline Gordon,female,0,no mfa,1.0,10000.0
+229,324.0,Caroline Kim,female,1,University of Michigan,1.0,15000.0
+230,325.0,Caroline Miller,female,0,no mfa,1.0,15000.0
+231,326.0,Carolyn Cooke,female,1,Columbia University,1.0,25000.0
+232,327.0,Carolyn Forché,female,1,Bowling Green State University,3.0,340000.0
+233,328.0,Carolyn Kizer,female,1,no mfa,2.0,25000.0
+234,330.0,Carson McCullers,female,0,no mfa,1.0,10000.0
+235,331.0,Caryl Phillips,male,0,no mfa,1.0,150000.0
+236,332.0,Cate Marvin,female,1,University of Iowa,2.0,60000.0
+237,334.0,Catherine Barnett,female,1,Warren Wilson College,1.0,50000.0
+238,335.0,Catherine Bowman,female,1,Columbia University,1.0,10000.0
+239,336.0,Catherine Lacey,female,1,Columbia University,1.0,50000.0
+240,339.0,Cathy Wagner,female,1,University of Iowa,1.0,15000.0
+241,340.0,Cathypark Hong,female,1,University of Iowa,1.0,165000.0
+242,341.0,Cecilia Vicuña,female,0,no mfa,1.0,50000.0
+243,342.0,Chang-Rae Lee,male,1,University of Oregon,1.0,10000.0
+244,344.0,Charles Baxter,male,1,no mfa,2.0,35000.0
+245,345.0,Charles Bernstein,male,0,no mfa,1.0,10000.0
+246,347.0,Charles Bowden,male,1,no mfa,1.0,50000.0
+247,348.0,Charles D'Ambrosio,male,1,University of Iowa,4.0,160000.0
+248,349.0,Charles Edward Eaton,male,1,no mfa,1.0,10000.0
+249,350.0,Charles Frazier,male,1,no mfa,1.0,10000.0
+250,351.0,Charles Gordone,male,0,no mfa,1.0,10000.0
+251,352.0,Charles Harper Webb,male,1,University of Washington,2.0,60000.0
+252,353.0,Charles Jackson,male,0,no mfa,1.0,10000.0
+253,354.0,Charles Johnson,male,1,no mfa,2.0,20000.0
+254,355.0,Charles Martin,male,1,no mfa,1.0,10000.0
+255,357.0,Charles Newman,male,0,no mfa,1.0,10000.0
+256,358.0,Charles Reznikoff,male,0,no mfa,1.0,10000.0
+257,360.0,Charles Rosen,male,1,no mfa,1.0,10000.0
+258,362.0,Charles Simic,male,0,no mfa,8.0,745000.0
+259,363.0,Charles Wilson,male,0,no mfa,1.0,10000.0
+260,364.0,Charles Wright,male,1,University of Iowa,10.0,275000.0
+261,365.0,Charles Yu,male,0,no mfa,1.0,10000.0
+262,366.0,Charles L. Mee,male,0,no mfa,1.0,10000.0
+263,367.0,Charlotte Bacon,female,1,Columbia University,1.0,10000.0
+264,368.0,Chase Twichell,female,1,University of Iowa,2.0,110000.0
+265,369.0,Cherrie Moraga,female,1,no mfa,1.0,50000.0
+266,371.0,Chester Kallman,male,1,no mfa,1.0,10000.0
+267,372.0,Chimamanda Ngozi Adichie,female,1,Johns Hopkins University,1.0,500000.0
+268,375.0,Chloe Aridjis,female,1,no mfa,1.0,15000.0
+269,376.0,Chloe Honum,female,1,University of Arkansas,1.0,25800.0
+270,377.0,Chris Abani,male,1,no mfa,3.0,110000.0
+271,378.0,Chris Adrian,male,1,University of Iowa,1.0,10000.0
+272,379.0,Chris Bachelder,male,1,University of Florida,1.0,10000.0
+273,382.0,Chris Hedges,male,1,no mfa,1.0,10000.0
+274,383.0,Chris Offutt,male,1,University of Iowa,2.0,100000.0
+275,385.0,Christian Hawkey,male,1,"University of Massachusetts, Amherst",1.0,10000.0
+276,386.0,Christian Wiman,male,1,no mfa,1.0,15000.0
+277,387.0,Christina Pugh,female,1,no mfa,1.0,25800.0
+278,389.0,Christine Stewart,female,1,University of Maryland,1.0,15000.0
+279,390.0,Christopher Benfey,male,1,no mfa,1.0,20000.0
+280,391.0,Christopher Brookhouse,male,1,no mfa,1.0,10000.0
+281,392.0,Christopher Coake,male,1,Ohio State University,1.0,25000.0
+282,393.0,Christopher Cokinos,male,1,Washington University,1.0,50000.0
+283,394.0,Christopher Davis,male,0,no mfa,1.0,10000.0
+284,395.0,Christopher Durang,male,1,Yale University,1.0,10000.0
+285,396.0,Christopher Hitchens,male,0,no mfa,1.0,15000.0
+286,399.0,Christopher Middleton,male,0,no mfa,1.0,10000.0
+287,400.0,Christopher Shannon,male,1,University of Florida,1.0,25800.0
+288,401.0,Christopher Tilghman,male,0,no mfa,1.0,50000.0
+289,402.0,Chrystos Chrystos,female,0,no mfa,1.0,150000.0
+290,403.0,Ciaran Berry,male,0,no mfa,1.0,50000.0
+291,404.0,Cid Corman,male,0,no mfa,1.0,25000.0
+292,405.0,Claire Messud,female,1,Syracuse University,2.0,110000.0
+293,406.0,Claire Vaye Watkins,female,1,Ohio State University,2.0,60000.0
+294,407.0,Clare Barron,female,1,Brooklyn College,1.0,50000.0
+295,408.0,Clare Cavanagh,female,1,no mfa,1.0,10000.0
+296,410.0,Clarence Coo,male,1,Columbia University,1.0,50000.0
+297,412.0,Clark Blaise,male,1,University of Iowa,1.0,10000.0
+298,413.0,Claude Wilkinson,male,1,University of Mississippi,1.0,50000.0
+299,414.0,Claudia Emerson,female,1,University of North Carolina,1.0,15000.0
+300,415.0,Claudia Rankine,female,1,Columbia University,7.0,945000.0
+301,416.0,Claudia Roth Pierpont,female,1,New York University,1.0,50000.0
+302,418.0,Clifford Thompson,male,0,no mfa,1.0,50000.0
+303,420.0,Colin Cheney,male,1,New York University,1.0,25800.0
+304,422.0,Colinm Turnbull,male,1,no mfa,1.0,10000.0
+305,424.0,Colm Toibin,male,0,no mfa,1.0,10000.0
+306,425.0,Colson Whitehead,male,0,no mfa,6.0,640000.0
+307,426.0,Colum McCann,male,0,no mfa,2.0,20000.0
+308,427.0,Connie Deanovich,female,1,no mfa,1.0,50000.0
+309,428.0,Conrad Aiken,male,0,no mfa,7.0,165000.0
+310,429.0,Conrad Richter,male,0,no mfa,3.0,35000.0
+311,430.0,Cormac McCarthy,male,0,no mfa,5.0,575000.0
+312,431.0,Cornelius Eady,male,1,Warren Wilson College,1.0,10000.0
+313,432.0,Cortney Lamar Charleston,male,0,no mfa,1.0,25800.0
+314,433.0,Courtney Brkic,female,1,New York University,1.0,50000.0
+315,434.0,Craig Lucas,male,0,no mfa,1.0,10000.0
+316,435.0,Craig Morgan Teicher,male,1,no mfa,1.0,25000.0
+317,436.0,Craig Nova,male,0,no mfa,1.0,10000.0
+318,437.0,Craig Santos Perez,male,1,University of San Francisco,1.0,50000.0
+319,438.0,Cristina García,female,1,no mfa,2.0,675000.0
+320,440.0,Crystal Wilkinson,female,1,Spalding University,1.0,50000.0
+321,443.0,Cynthia Kadohata,female,1,no mfa,1.0,50000.0
+322,444.0,Cynthia Macdonald,female,1,no mfa,2.0,20000.0
+323,445.0,Cynthia Ozick,female,1,no mfa,4.0,275000.0
+324,446.0,Cyree Jarelle Johnson,male,1,Columbia University,1.0,25800.0
+325,447.0,Cyrus Cassells,male,0,no mfa,1.0,150000.0
+326,448.0,D. A. Powell,male,1,University of Iowa,3.0,130000.0
+327,449.0,D. J. Waldie,male,1,no mfa,1.0,50000.0
+328,450.0,D. Nurkse,male,0,no mfa,1.0,10000.0
+329,451.0,Dael Orlandersmith,female,0,no mfa,1.0,50000.0
+330,452.0,Dagoberto Gilb,male,1,no mfa,2.0,60000.0
+331,454.0,Dalia Sofer,female,1,Sarah Lawrence College,2.0,75000.0
+332,455.0,Damien Wilkins,male,1,Washington University,1.0,50000.0
+333,456.0,Dan Chaon,male,1,Syracuse University,1.0,10000.0
+334,457.0,Dan Chiasson,male,1,no mfa,2.0,60000.0
+335,458.0,Dan Josefson,male,1,University of Nevada,1.0,50000.0
+336,461.0,Dana Levin,female,1,New York University,1.0,50000.0
+337,462.0,Dana Spiotta,female,0,no mfa,2.0,30000.0
+338,463.0,Danai Gurira,female,1,New York University,1.0,50000.0
+339,464.0,Danez Smith,male,1,University of Michigan,2.0,35800.0
+340,466.0,Daniel Alarcon,male,1,University of Iowa,2.0,100000.0
+341,467.0,Daniel Borzutzky,male,1,School of Art Institute of Chicago,1.0,10000.0
+342,468.0,Daniel Fuchs,male,0,no mfa,1.0,10000.0
+343,469.0,Daniel Hall,male,0,no mfa,1.0,50000.0
+344,471.0,Daniel Hoffman,male,1,no mfa,4.0,100000.0
+345,473.0,Daniel Mason,male,1,no mfa,1.0,50000.0
+346,475.0,Daniel Mendelsohn,male,1,no mfa,1.0,20000.0
+347,476.0,Daniel Orozco,male,1,University of Washington,1.0,50000.0
+348,477.0,Daniel Stern,male,0,no mfa,1.0,10000.0
+349,478.0,Daniel Woodrell,male,1,University of Iowa,1.0,50000.0
+350,479.0,Danielle Evans,female,1,University of Iowa,1.0,25000.0
+351,481.0,Danielle McLaughlin,female,1,no mfa,1.0,165000.0
+352,483.0,Danielmark Epstein,male,1,no mfa,1.0,10000.0
+353,484.0,Danielp Mannix,male,0,no mfa,1.0,10000.0
+354,485.0,Daniyal Mueenuddin,male,1,University of Arizona,1.0,10000.0
+355,486.0,Danniel Schoonebeek,male,0,no mfa,1.0,25800.0
+356,487.0,Danny Santiago,male,0,no mfa,1.0,10000.0
+357,488.0,Danzy Senna,female,1,"Univeristy of California, Irvine",1.0,50000.0
+358,489.0,Darcy O'Brien,male,1,no mfa,1.0,10000.0
+359,490.0,Darius Simpson,male,1,Mills College,1.0,25800.0
+360,491.0,Darrell Spencer,male,1,no mfa,1.0,15000.0
+361,492.0,Darryl Pinckney,male,0,no mfa,3.0,80000.0
+362,493.0,Daryl Hine,male,1,no mfa,2.0,510000.0
+363,494.0,Dava Sobel,female,0,no mfa,1.0,20000.0
+364,495.0,Dave Eggers,male,0,no mfa,1.0,10000.0
+365,496.0,Dave Smith,male,1,no mfa,1.0,10000.0
+366,497.0,David Adjmi,male,1,University of Iowa,1.0,50000.0
+367,502.0,David Bosworth,male,0,no mfa,1.0,15000.0
+368,503.0,David Bottoms,male,1,no mfa,1.0,10000.0
+369,504.0,David Bradley,male,1,no mfa,1.0,15000.0
+370,505.0,David Bromwich,male,1,no mfa,2.0,25000.0
+371,506.0,David Chariandy,male,1,no mfa,1.0,165000.0
+372,507.0,David Cook,male,0,no mfa,1.0,10000.0
+373,508.0,David Cope,male,1,no mfa,1.0,10000.0
+374,510.0,David Ebershoff,male,1,University of Chicago,1.0,10000.0
+375,511.0,David Ferry,male,1,no mfa,6.0,180000.0
+376,512.0,David Foster Wallace,male,1,University of Arizona,2.0,200000.0
+377,514.0,David Gewanter,male,1,no mfa,1.0,50000.0
+378,515.0,David Guterson,male,1,University of Washington,1.0,15000.0
+379,516.0,David Harris Ebenbach,male,1,Vermont College of Fine Arts ,1.0,15000.0
+380,518.0,David Henry Hwang,male,1,no mfa,1.0,50000.0
+381,519.0,David Ignatow,male,0,no mfa,2.0,20000.0
+382,520.0,David Jones,male,0,no mfa,1.0,10000.0
+383,524.0,David Krump,male,1,no mfa,1.0,25800.0
+384,526.0,David Lehman,male,1,no mfa,1.0,10000.0
+385,527.0,David Lindsay-Abaire,male,0,no mfa,1.0,10000.0
+386,528.0,David Long,male,1,University of Montana,1.0,10000.0
+387,529.0,David Malouf,male,0,no mfa,1.0,150000.0
+388,530.0,David Mamet,male,0,no mfa,1.0,10000.0
+389,531.0,David Markson,male,1,no mfa,1.0,10000.0
+390,532.0,David McCombs,male,0,no mfa,1.0,15000.0
+391,533.0,David McCord,male,1,no mfa,1.0,10000.0
+392,534.0,David McCullough,male,0,no mfa,1.0,40000.0
+393,536.0,David Mitchell,male,1,no mfa,1.0,10000.0
+394,537.0,David Morris,male,1,no mfa,1.0,15000.0
+395,539.0,David Plante,male,0,no mfa,1.0,10000.0
+396,540.0,David Quammen,male,1,no mfa,2.0,25000.0
+397,541.0,David Rabe,male,1,no mfa,1.0,10000.0
+398,542.0,David Riesman,male,0,no mfa,1.0,10000.0
+399,543.0,David Rivard,male,1,University of Arizona,1.0,10000.0
+400,544.0,David Shapiro,male,1,no mfa,1.0,10000.0
+401,545.0,David St John,male,1,University of Iowa,2.0,20000.0
+402,546.0,David Wagoner,male,1,no mfa,3.0,130000.0
+403,547.0,David Wojahn,male,1,University of Arizona,2.0,35000.0
+404,548.0,David Wong Louie,male,1,University of Iowa,1.0,50000.0
+405,550.0,Davidh Bradley,male,1,no mfa,1.0,10000.0
+406,552.0,Davidr Slavitt,male,1,no mfa,1.0,10000.0
+407,553.0,Dawn Lundy Martin,female,1,no mfa,1.0,100000.0
+408,555.0,De'Shawn Charles Winslow,male,1,University of Iowa,1.0,15000.0
+409,556.0,Dean Young,male,1,Indiana University,1.0,10000.0
+410,557.0,Debora Greger,female,1,University of Iowa,1.0,10000.0
+411,558.0,Deborah Digges,female,1,University of Iowa,1.0,100000.0
+412,559.0,Deborah Eisenberg,female,0,no mfa,4.0,125000.0
+413,560.0,Deborah Fleming,female,1,no mfa,1.0,15000.0
+414,562.0,Deborah Levy,female,0,no mfa,1.0,50000.0
+415,566.0,Delisa Mulkey,female,1,Georgia State University,1.0,15000.0
+416,567.0,Delmore Schwartz,male,0,no mfa,2.0,20000.0
+417,569.0,Denis Johnson,male,1,University of Iowa,5.0,245000.0
+418,570.0,Denise Levertov,female,0,no mfa,4.0,210000.0
+419,572.0,Dennis Nurske,male,0,no mfa,1.0,50000.0
+420,573.0,Dennis O'Driscoll,male,1,no mfa,2.0,160000.0
+421,574.0,Derek Walcott,male,0,no mfa,1.0,500000.0
+422,575.0,Diana Khoi Nguyen,female,1,Columbia University,1.0,10000.0
+423,577.0,Diane Johnson,female,0,no mfa,2.0,110000.0
+424,579.0,Diannely Antigua,female,1,New York University,1.0,50000.0
+425,580.0,Dinaw Mengestu,male,1,Columbia University,2.0,550000.0
+426,581.0,Dionisio Martínez,male,0,no mfa,1.0,50000.0
+427,582.0,Doireannn Níghríofa,female,1,no mfa,1.0,50000.0
+428,583.0,Dominique Morisseau,female,0,no mfa,1.0,10000.0
+429,584.0,Don Bartlett,male,1,no mfa,1.0,10000.0
+430,585.0,Don DeLillo,male,0,no mfa,4.0,60000.0
+431,586.0,Don Mee Choi,female,1,no mfa,3.0,110000.0
+432,588.0,Donald Antrim,male,0,no mfa,1.0,625000.0
+433,589.0,Donald Barthelme,male,0,no mfa,1.0,10000.0
+434,590.0,Donald Finkel,male,1,no mfa,1.0,10000.0
+435,591.0,Donald Hall,male,1,no mfa,4.0,195000.0
+436,592.0,Donald Justice,male,1,no mfa,5.0,210000.0
+437,593.0,Donald Keene,male,1,no mfa,1.0,10000.0
+438,594.0,Donald Margulies,male,0,no mfa,1.0,10000.0
+439,595.0,Donald Ray Pollock,male,0,no mfa,1.0,25000.0
+440,596.0,Donald Revell,male,1,no mfa,1.0,25000.0
+441,597.0,Donika Kelly,female,1,"University of Texas, Austin",1.0,10000.0
+442,598.0,Donna Gershten,female,1,Warren Wilson College,1.0,25000.0
+443,599.0,Donna Tartt,female,0,no mfa,1.0,15000.0
+444,600.0,Donovan Hohn,male,1,University of Michigan,1.0,50000.0
+445,601.0,Dora Malech,female,1,no mfa,1.0,25800.0
+446,603.0,Doris Betts,female,0,no mfa,1.0,25000.0
+447,606.0,Dorothy Baker,female,1,no mfa,1.0,10000.0
+448,608.0,Dorothy Hughes,female,1,no mfa,1.0,10000.0
+449,609.0,Doug Anderson,male,0,no mfa,1.0,10000.0
+450,610.0,Doug Wright,male,1,New York University,1.0,50000.0
+451,611.0,Douglas Crase,male,0,no mfa,2.0,550000.0
+452,612.0,Douglas Day,male,1,no mfa,1.0,10000.0
+453,613.0,Douglas Hobbie,male,0,no mfa,1.0,10000.0
+454,614.0,Douglas Kearney,male,1,California Institute of the Arts,1.0,50000.0
+455,615.0,Dudley Fitts,male,0,no mfa,1.0,10000.0
+456,616.0,E. E. Cummings,male,1,no mfa,2.0,35000.0
+457,617.0,E. L. Doctorow,male,0,no mfa,6.0,115000.0
+458,618.0,Eamon Grennan,male,1,no mfa,1.0,25000.0
+459,619.0,Eavan Boland,female,0,no mfa,1.0,150000.0
+460,621.0,Ed Roberson,male,1,no mfa,3.0,200000.0
+461,622.0,Edgar Bowers,male,1,no mfa,2.0,20000.0
+462,623.0,Edgar Lee Masters,male,0,no mfa,2.0,35000.0
+463,624.0,Edie Meidav,female,1,Mills College,1.0,50000.0
+464,625.0,Edith Grossman,female,1,no mfa,1.0,10000.0
+465,626.0,Edith Pearlman,female,0,no mfa,1.0,15000.0
+466,627.0,Edith Wharton,female,0,no mfa,1.0,15000.0
+467,629.0,Edmund Keeley,male,1,no mfa,1.0,10000.0
+468,630.0,Edmund Morgan,male,1,no mfa,1.0,10000.0
+469,631.0,Edmund White,male,0,no mfa,2.0,35000.0
+470,632.0,Edna Ferber,female,0,no mfa,1.0,15000.0
+471,633.0,Edna St Vincent Millay,female,0,no mfa,2.0,40000.0
+472,634.0,Eduardo Corral,male,1,University of Iowa,1.0,50000.0
+473,635.0,Edward Dahlberg,male,0,no mfa,1.0,10000.0
+474,637.0,Edward Hirsch,male,1,no mfa,2.0,510000.0
+475,638.0,Edward Hoagland,male,0,no mfa,1.0,20000.0
+476,639.0,Edward P. Jones,male,1,University of Virginia,6.0,835000.0
+477,640.0,Edward Said,male,1,no mfa,1.0,200000.0
+478,641.0,Edward Snow,male,1,no mfa,1.0,10000.0
+479,642.0,Edwidge Danticat,female,1,Brown University,5.0,670000.0
+480,643.0,Edwin Arlington Robinson,male,0,no mfa,3.0,45000.0
+481,644.0,Edwin Honig,male,1,no mfa,1.0,10000.0
+482,646.0,Edwin Markham,male,0,no mfa,1.0,25000.0
+483,647.0,Edwin O'Connor,male,0,no mfa,2.0,25000.0
+484,648.0,Ehud Havazelet,male,1,University of Iowa,1.0,50000.0
+485,649.0,Eileen Myles,female,0,no mfa,1.0,10000.0
+486,651.0,Elaine Scarry,female,1,no mfa,1.0,10000.0
+487,652.0,Elana Greenfield,female,1,Brown University,1.0,50000.0
+488,653.0,Elbert Weinberg,male,0,no mfa,1.0,10000.0
+489,655.0,Eleanor Clark,female,0,no mfa,1.0,10000.0
+490,656.0,Eleanor Lerman,female,0,no mfa,1.0,25000.0
+491,657.0,Eleanor Perenyi,female,0,no mfa,1.0,20000.0
+492,658.0,Eleanor Ross Taylor,female,1,no mfa,2.0,110000.0
+493,659.0,Eleanor Wilner,female,1,no mfa,1.0,500000.0
+494,661.0,Elena Passarello,female,1,University of Iowa,1.0,50000.0
+495,662.0,Elif Batuman,female,1,no mfa,1.0,50000.0
+496,665.0,Elizabeth Alexander,female,1,no mfa,1.0,75000.0
+497,666.0,Elizabeth Arnold,female,1,no mfa,1.0,50000.0
+498,668.0,Elizabeth Bishop,female,0,no mfa,6.0,130000.0
+499,671.0,Elizabeth Graver,female,1,Washington University,1.0,15000.0
+500,672.0,Elizabeth Hardwick,female,0,no mfa,1.0,10000.0
+501,674.0,Elizabeth McCracken,female,1,University of Iowa,1.0,20000.0
+502,676.0,Elizabeth Parsons,female,0,no mfa,1.0,10000.0
+503,677.0,Elizabeth Sewell,female,1,no mfa,1.0,10000.0
+504,678.0,Elizabeth Spencer,female,1,no mfa,3.0,45000.0
+505,679.0,Elizabeth Spires,female,1,no mfa,1.0,50000.0
+506,680.0,Elizabeth Strout,female,1,no mfa,1.0,15000.0
+507,683.0,Ellen Akins,female,0,no mfa,2.0,60000.0
+508,685.0,Ellen Bryant Voigt,female,1,University of Iowa,5.0,690000.0
+509,686.0,Ellen Douglas,female,0,no mfa,1.0,10000.0
+510,687.0,Ellen Gilchrist,female,0,no mfa,1.0,10000.0
+511,688.0,Ellen Glasgow,female,0,no mfa,1.0,15000.0
+512,689.0,Ellen Hunnicutt,female,1,no mfa,1.0,15000.0
+513,690.0,Ellen Meloy,female,1,no mfa,1.0,50000.0
+514,693.0,Emily Carter,female,0,no mfa,1.0,50000.0
+515,694.0,Emily Fragos,female,1,Columbia University,1.0,10000.0
+516,695.0,Emily Hiestand,female,0,no mfa,1.0,50000.0
+517,696.0,Emily Jungmin Yoon,female,0,no mfa,1.0,25800.0
+518,697.0,Emily Moore,female,1,no mfa,1.0,25800.0
+519,698.0,Emily Rosko,female,1,Cornell University,1.0,25800.0
+520,701.0,Eric Bentley,male,1,no mfa,1.0,10000.0
+521,702.0,Eric Ekstrand,male,1,University of Houston,1.0,25800.0
+522,703.0,Eric Hoffer,male,0,no mfa,1.0,10000.0
+523,705.0,Eric McHenry,male,1,no mfa,1.0,10000.0
+524,706.0,Eric Puchner,male,1,University of Arizona,1.0,10000.0
+525,708.0,Erik Ehn,male,1,Yale University,1.0,50000.0
+526,709.0,Erika Sanchez,female,1,University of New Mexico,1.0,25800.0
+527,710.0,Erin Brooks,female,1,no mfa,1.0,15000.0
+528,711.0,Erna Brodber,female,0,no mfa,1.0,165000.0
+529,712.0,Ernest Hemingway,male,0,no mfa,2.0,40000.0
+530,713.0,Ernest J. Gaines,male,1,no mfa,1.0,10000.0
+531,714.0,Ernest Poole,male,0,no mfa,1.0,15000.0
+532,718.0,Esme Weijun Wang,female,1,University of Michigan,1.0,50000.0
+533,719.0,Ethelbert Miller,male,0,no mfa,1.0,10000.0
+534,720.0,Eudora Welty,female,1,no mfa,4.0,75000.0
+535,723.0,Eugened Genovese,male,1,no mfa,1.0,10000.0
+536,725.0,Eva Hoffman,female,1,no mfa,1.0,50000.0
+537,726.0,Evan Connell,male,1,no mfa,2.0,210000.0
+538,727.0,Evan Smith,male,1,Yale University,1.0,50000.0
+539,728.0,Evie Shockley,female,1,no mfa,1.0,150000.0
+540,729.0,Ezra Pound,male,1,no mfa,2.0,35000.0
+541,730.0,F. D. Reeve,male,1,no mfa,1.0,10000.0
+542,732.0,F. T. Prince,male,0,no mfa,1.0,10000.0
+543,733.0,Fanny Howe,female,0,no mfa,3.0,135000.0
+544,734.0,Farnoosh Fathi,female,1,no mfa,1.0,25800.0
+545,735.0,Fatimah Asghar,female,0,no mfa,1.0,25800.0
+546,736.0,Feike Feikema,male,0,no mfa,1.0,10000.0
+547,740.0,Flannery O'Connor,female,1,University of Iowa,2.0,20000.0
+548,741.0,Forrest Gander,male,1,no mfa,3.0,115000.0
+549,742.0,Frances Fitzgerald,female,0,no mfa,1.0,10000.0
+550,747.0,Francis Fergusson,female,1,no mfa,1.0,10000.0
+551,748.0,Francis Steegmuller,male,0,no mfa,1.0,10000.0
+552,749.0,Francisco Cantú,male,1,University of Arizona,1.0,50000.0
+553,751.0,Frank Bidart,male,1,no mfa,8.0,315000.0
+554,752.0,Frank Chin,male,0,no mfa,1.0,150000.0
+555,756.0,Frank O'Connor,male,0,no mfa,1.0,10000.0
+556,757.0,Frank O'Hara,male,1,no mfa,1.0,10000.0
+557,758.0,Frank Rooney,male,0,no mfa,1.0,10000.0
+558,760.0,Frank Stewart,male,0,no mfa,1.0,50000.0
+559,761.0,Frank Tuohy,male,0,no mfa,1.0,10000.0
+560,762.0,Frank Walker,male,1,Spalding University,1.0,50000.0
+561,763.0,Franny Choi,female,1,University of Michigan,1.0,25800.0
+562,764.0,Franz Wright,male,0,no mfa,2.0,65000.0
+563,765.0,Fred Chappell,male,0,no mfa,2.0,20000.0
+564,766.0,Fred Moten,male,1,no mfa,2.0,675000.0
+565,768.0,Frederic Tuten,male,1,no mfa,1.0,10000.0
+566,769.0,Frederick Buechner,male,0,no mfa,2.0,20000.0
+567,770.0,Frederick Busch,male,1,no mfa,2.0,35000.0
+568,771.0,Frederick Crews,male,1,no mfa,1.0,15000.0
+569,772.0,Frederick Exley,male,0,no mfa,1.0,10000.0
+570,774.0,Frederick Seidel,male,0,no mfa,1.0,10000.0
+571,775.0,Freeman House,male,0,no mfa,1.0,20000.0
+572,776.0,Gabriel Brownstein,male,1,Columbia University,1.0,10000.0
+573,778.0,Gail Godwin,female,1,no mfa,1.0,10000.0
+574,780.0,Galway Kinnell,male,1,no mfa,6.0,660000.0
+575,786.0,Gary Snyder,male,0,no mfa,5.0,235000.0
+576,788.0,Gayle Brandeis,female,1,Antioch College,1.0,25000.0
+577,791.0,Genevieve Sly Crane,female,1,SUNY Stonybrook,1.0,50000.0
+578,792.0,Genevieve Taggard,female,0,no mfa,1.0,10000.0
+579,793.0,Genya Turovskaya,female,1,Bard College,1.0,50000.0
+580,794.0,Geoff Dyer,male,0,no mfa,2.0,60000.0
+581,795.0,Geoffrey Becker,male,0,no mfa,1.0,15000.0
+582,797.0,Geoffrey O'Brien,male,0,no mfa,1.0,50000.0
+583,798.0,Geoffrey Wolff,male,1,no mfa,1.0,10000.0
+584,800.0,George Dillon,male,0,no mfa,1.0,15000.0
+585,801.0,George Elliott,male,1,no mfa,1.0,10000.0
+586,802.0,George Evans,male,1,no mfa,1.0,50000.0
+587,803.0,George Garrett,male,1,no mfa,1.0,10000.0
+588,804.0,George Green,male,0,no mfa,1.0,10000.0
+589,806.0,George Oppen,male,0,no mfa,2.0,25000.0
+590,807.0,George Saunders,male,1,no mfa,3.0,560000.0
+591,808.0,George Starbuck,male,0,no mfa,2.0,35000.0
+592,809.0,Gerald Early,male,1,no mfa,1.0,50000.0
+593,810.0,Gerald Stern,male,1,no mfa,6.0,270000.0
+594,812.0,Geraldine Brooks,female,1,no mfa,2.0,55000.0
+595,813.0,Gilbert Hernandez,male,0,no mfa,1.0,50000.0
+596,815.0,Gilbert Rogin,male,0,no mfa,1.0,10000.0
+597,816.0,Gilbert Sorrentino,male,0,no mfa,3.0,360000.0
+598,818.0,Gina Berriault,female,0,no mfa,1.0,15000.0
+599,819.0,Gish Jen,female,1,University of Iowa,2.0,250000.0
+600,820.0,Gjertrud Schnackenberg,female,0,no mfa,1.0,10000.0
+601,821.0,Glenn Greenwald,male,0,no mfa,1.0,10000.0
+602,822.0,Glenn Patterson,male,1,no mfa,1.0,50000.0
+603,824.0,Gloria Naylor,female,1,no mfa,1.0,10000.0
+604,826.0,Glyn Maxwell,male,1,no mfa,1.0,10000.0
+605,827.0,Gordon Grice,male,1,University of Arkansas,1.0,50000.0
+606,828.0,Gordon Haight,male,1,no mfa,1.0,10000.0
+607,830.0,Grace Paley,female,0,no mfa,2.0,160000.0
+608,833.0,Greg Tate,male,0,no mfa,1.0,50000.0
+609,834.0,Greg Williamson,male,1,Johns Hopkins University,2.0,60000.0
+610,835.0,Gregory Orr,male,1,no mfa,1.0,10000.0
+611,836.0,Gregory Pardlo,male,1,New York University,1.0,15000.0
+612,837.0,Gregory Rabassa,male,1,no mfa,1.0,10000.0
+613,838.0,Gregory Sellers,male,1,University of Arizona,1.0,15000.0
+614,840.0,Gretel Ehrlich,female,1,no mfa,2.0,70000.0
+615,841.0,Guy Davenport,male,1,no mfa,2.0,20000.0
+616,842.0,Gwendolyn Brooks,female,0,no mfa,5.0,120000.0
+617,843.0,H. L. Davis,male,0,no mfa,1.0,15000.0
+618,844.0,Ha Jin,male,1,no mfa,4.0,50000.0
+619,847.0,Hanif Abdurraqib,male,0,no mfa,3.0,125000.0
+620,848.0,Hannah Arendt,female,1,no mfa,1.0,10000.0
+621,849.0,Hannah Dela Cruz Abrams,female,1,University of North Carolina,1.0,50000.0
+622,850.0,Hannah Gamble,female,1,University of Houston,1.0,25800.0
+623,852.0,Hannah Sanghee Park,female,1,University of Iowa,1.0,25800.0
+624,853.0,Hannah Tinti,female,0,no mfa,1.0,15000.0
+625,854.0,Hannahlillith Assadi,female,1,Columbia University,1.0,10000.0
+626,855.0,Hanya Yanagihara,female,1,University of Michigan,3.0,120000.0
+627,856.0,Harmony Holiday,female,1,Columbia University,1.0,25800.0
+628,858.0,Harper Lee,female,0,no mfa,1.0,15000.0
+629,859.0,Harriet Doerr,female,1,no mfa,2.0,30000.0
+630,860.0,Harriet Ritvo,female,1,no mfa,1.0,50000.0
+631,862.0,Harry Crews,male,1,no mfa,1.0,10000.0
+632,864.0,Harry Levin,male,0,no mfa,1.0,10000.0
+633,865.0,Harry Mathews,male,0,no mfa,1.0,10000.0
+634,866.0,Harryette Mullen,female,1,no mfa,3.0,150000.0
+635,868.0,Harvey Swados,male,0,no mfa,1.0,10000.0
+636,869.0,Hayden Carruth,male,1,no mfa,6.0,355000.0
+637,870.0,Heather McHugh,female,1,no mfa,3.0,560000.0
+638,871.0,Heidi Durrow,female,1,no mfa,1.0,25000.0
+639,873.0,Heidi Schreck,female,0,no mfa,1.0,20000.0
+640,874.0,Heidy Steidlmayer,female,1,Warren Wilson College,1.0,10000.0
+641,876.0,Helen Simpson,female,0,no mfa,1.0,10000.0
+642,877.0,Helen Vendler,female,1,no mfa,1.0,10000.0
+643,878.0,Helena Maria Viramontes,female,1,"Univeristy of California, Irvine",1.0,50000.0
+644,879.0,Helon Habila,male,0,no mfa,1.0,165000.0
+645,880.0,Henri Cole,male,1,Columbia University,6.0,285000.0
+646,882.0,Henry Roth,male,0,no mfa,1.0,10000.0
+647,884.0,Henry Taylor,male,1,no mfa,1.0,15000.0
+648,885.0,Henryrussell Hitchcock,male,1,no mfa,1.0,10000.0
+649,886.0,Henryvan Dyke,male,1,no mfa,1.0,10000.0
+650,888.0,Herbert Gold,male,1,no mfa,1.0,10000.0
+651,889.0,Herbert Morris,male,0,no mfa,3.0,310000.0
+652,890.0,Herman Diaz,male,1,no mfa,1.0,50000.0
+653,892.0,Herman Wouk,male,0,no mfa,1.0,15000.0
+654,893.0,Hermann Broch,male,0,no mfa,1.0,10000.0
+655,894.0,Hieu Minh Nguyen,male,1,Warren Wilson College,1.0,25800.0
+656,895.0,Hilary Mantel,female,0,no mfa,1.0,40000.0
+657,896.0,Hilary Masters,male,0,no mfa,1.0,10000.0
+658,897.0,Hildad Doolittle,female,0,no mfa,1.0,25000.0
+659,898.0,Hillary Jordan,female,1,Columbia University,1.0,25000.0
+660,899.0,Hilma Wolitzer,female,0,no mfa,1.0,10000.0
+661,900.0,Hisham Matar,female,0,no mfa,1.0,75000.0
+662,901.0,Horace Gregory,male,0,no mfa,2.0,35000.0
+663,902.0,Hortense Calisher,female,0,no mfa,1.0,10000.0
+664,903.0,Horton Foote,male,0,no mfa,1.0,10000.0
+665,904.0,Howard Bahr,male,1,no mfa,1.0,20000.0
+666,905.0,Howard Moss,male,0,no mfa,4.0,70000.0
+667,907.0,Howard Nemerov,male,1,no mfa,10.0,245000.0
+668,908.0,Howard Norman,male,1,no mfa,2.0,200000.0
+669,909.0,Howardfrank Mosher,male,1,no mfa,1.0,10000.0
+670,910.0,Hugh Kenner,male,1,no mfa,1.0,10000.0
+671,911.0,Hugh Raffles,male,1,no mfa,1.0,50000.0
+672,912.0,Hugo Ignotus,male,0,no mfa,1.0,10000.0
+673,913.0,Humphrey Carpenter,male,0,no mfa,1.0,10000.0
+674,914.0,Hyam Plutzik,male,0,no mfa,1.0,10000.0
+675,915.0,Ian Buruma,male,0,no mfa,1.0,15000.0
+676,916.0,Ian Frazier,male,0,no mfa,1.0,50000.0
+677,917.0,Ian McEwan,male,1,no mfa,1.0,40000.0
+678,918.0,Ibrahim Muhawi,male,1,no mfa,1.0,10000.0
+679,919.0,Ilya Kaminsky,male,1,no mfa,5.0,160800.0
+680,920.0,Imbolo Mbue,female,1,no mfa,1.0,15000.0
+681,925.0,Irving Feldman,male,1,no mfa,3.0,535000.0
+682,926.0,Irving Howe,male,0,no mfa,1.0,10000.0
+683,928.0,Irwin Shaw,male,0,no mfa,1.0,10000.0
+684,929.0,Isabel Bolton,female,0,no mfa,1.0,10000.0
+685,930.0,Isabella Borgeson,female,0,no mfa,1.0,25800.0
+686,931.0,Isabella Hammad,female,1,New York University,1.0,50000.0
+687,932.0,Ishion Hutchinson,male,1,New York University,3.0,225000.0
+688,933.0,Ishmael Reed,male,0,no mfa,1.0,10000.0
+689,934.0,Israel Horovitz,male,0,no mfa,1.0,10000.0
+690,935.0,Issac Bashevis Singer,male,0,no mfa,2.0,20000.0
+691,936.0,Ivan Gold,male,0,no mfa,1.0,10000.0
+692,937.0,Ivan Vladislavic,male,0,no mfa,1.0,165000.0
+693,938.0,J. Anton Shammas,male,0,no mfa,1.0,50000.0
+694,939.0,J. D. Daniels,male,1,Boston University,1.0,50000.0
+695,940.0,J. D. Landis,male,0,no mfa,1.0,10000.0
+696,941.0,J. D. McClatchy,male,1,no mfa,2.0,35000.0
+697,943.0,J. F. Powers,male,0,no mfa,1.0,10000.0
+698,944.0,J. P. Donleavy,male,0,no mfa,1.0,10000.0
+699,945.0,J. S. Marcus,male,1,no mfa,1.0,50000.0
+700,946.0,J. V. Cunningham,male,1,no mfa,2.0,35000.0
+701,947.0,Jack Gilbert,male,1,no mfa,1.0,150000.0
+702,948.0,Jack Livings,male,1,University of Iowa,1.0,25000.0
+703,949.0,Jack Turner,male,0,no mfa,1.0,50000.0
+704,950.0,Jackson Maclow,male,0,no mfa,1.0,100000.0
+705,951.0,Jacob Saenz,male,0,no mfa,1.0,25800.0
+706,952.0,Jacob Shores-Arguello,male,0,no mfa,1.0,50000.0
+707,953.0,Jacqueline Woodson,female,0,no mfa,1.0,625000.0
+708,956.0,Jaimy Gordon,female,1,no mfa,2.0,20000.0
+709,957.0,Jake Skeets,male,1,Institute of American Indian Arts,1.0,50000.0
+710,958.0,Jamaal May,male,1,Warren Wilson College,2.0,70000.0
+711,959.0,Jamaica Kincaid,female,0,no mfa,2.0,160000.0
+712,960.0,James Agee,male,0,no mfa,2.0,25000.0
+713,961.0,James Alan McPherson,male,1,University of Iowa,4.0,575000.0
+714,964.0,James Baldwin,male,0,no mfa,1.0,10000.0
+715,966.0,James Dickey,male,0,no mfa,5.0,125000.0
+716,969.0,James Galvin,male,1,University of Iowa,1.0,50000.0
+717,970.0,James Gould Cozzens,male,0,no mfa,1.0,15000.0
+718,972.0,James Hannaham,male,0,no mfa,2.0,25000.0
+719,974.0,James Ijames,male,1,Temple University,1.0,50000.0
+720,976.0,James Jones,male,0,no mfa,1.0,10000.0
+721,977.0,James Kimbrell,male,1,University of Virginia,2.0,65000.0
+722,978.0,James Longenbach,male,1,no mfa,1.0,10000.0
+723,979.0,James McBride,male,1,no mfa,1.0,10000.0
+724,980.0,James McConkey,male,1,University of Iowa,1.0,10000.0
+725,981.0,James McMichael,male,1,no mfa,3.0,95000.0
+726,982.0,James Merrill,male,0,no mfa,5.0,55000.0
+727,983.0,James Michener,male,1,no mfa,1.0,15000.0
+728,984.0,James Purdy,male,1,no mfa,2.0,20000.0
+729,985.0,James Richardson,male,1,no mfa,2.0,85000.0
+730,986.0,James Robison,male,1,Brown University,2.0,60000.0
+731,987.0,James Salter,male,0,no mfa,3.0,190000.0
+732,988.0,James Schevill,male,0,no mfa,1.0,10000.0
+733,989.0,James Schuyler,male,0,no mfa,4.0,100000.0
+734,991.0,James Seay,male,1,no mfa,1.0,10000.0
+735,992.0,James Stern,male,0,no mfa,1.0,10000.0
+736,993.0,James Still,male,1,no mfa,1.0,10000.0
+737,994.0,James Tate,male,1,University of Iowa,4.0,135000.0
+738,995.0,James Thomas Stevens,male,1,Brown University,1.0,50000.0
+739,996.0,James Wolcott,male,0,no mfa,1.0,15000.0
+740,997.0,James Wood,male,0,no mfa,1.0,10000.0
+741,998.0,James Wright,male,1,no mfa,3.0,50000.0
+742,999.0,James F. Powers,male,0,no mfa,1.0,10000.0
+743,1000.0,Jamila Woods,female,0,no mfa,1.0,25800.0
+744,1002.0,Jane Cooper,female,1,University of Iowa,1.0,10000.0
+745,1003.0,Jane Hamilton,female,0,no mfa,1.0,10000.0
+746,1004.0,Jane Hirshfield,female,0,no mfa,1.0,25000.0
+747,1005.0,Jane Huffman,female,1,University of Iowa,1.0,25800.0
+748,1007.0,Jane McCafferty,female,0,no mfa,1.0,15000.0
+749,1008.0,Jane Mead,female,1,University of Iowa,1.0,50000.0
+750,1009.0,Jane Smiley,female,1,University of Iowa,2.0,25000.0
+751,1010.0,Jane Springer,female,1,no mfa,1.0,50000.0
+752,1011.0,Janet Kauffman,female,1,no mfa,1.0,10000.0
+753,1013.0,Janet Peery,female,1,Wichita State University,2.0,60000.0
+754,1014.0,Janice Galloway,female,0,no mfa,1.0,10000.0
+755,1015.0,Janice Harrington,female,0,no mfa,1.0,10000.0
+756,1017.0,Janna Levin,female,1,no mfa,1.0,25000.0
+757,1018.0,Jaquira Diaz,female,1,University of San Francisco,1.0,50000.0
+758,1020.0,Jason Sommer,male,1,no mfa,1.0,50000.0
+759,1022.0,Javier Zamora,male,1,New York University,2.0,75800.0
+760,1023.0,Jay Cantor,male,1,no mfa,1.0,500000.0
+761,1024.0,Jay Hopler,male,1,University of Iowa,1.0,50000.0
+762,1027.0,Jay Wright,male,1,no mfa,5.0,695000.0
+763,1028.0,Jayne Anne Phillips,female,1,University of Iowa,1.0,10000.0
+764,1029.0,Jean Garrigue,female,1,no mfa,1.0,10000.0
+765,1030.0,Jean Guerrero,female,1,Goucher College,1.0,10000.0
+766,1031.0,Jean Stafford,female,0,no mfa,2.0,25000.0
+767,1033.0,Jean Valentine,female,1,no mfa,5.0,140000.0
+768,1034.0,Jeff Chang,male,1,no mfa,1.0,50000.0
+769,1035.0,Jeff Talarigo,male,0,no mfa,1.0,10000.0
+770,1038.0,Jeffrey Eugenides,male,1,no mfa,3.0,85000.0
+771,1040.0,Jeffrey Meyers,male,1,no mfa,1.0,10000.0
+772,1041.0,Jeffrey Renard Allen,male,1,University of Illinois,1.0,50000.0
+773,1042.0,Jeffrey Schultz,male,1,University of Oregon,1.0,25800.0
+774,1043.0,Jeffrey Skinner,male,1,University of Oregon,1.0,10000.0
+775,1045.0,Jen Beagin,female,1,"Univeristy of California, Irvine",1.0,50000.0
+776,1046.0,Jennifer Clarvoe,female,1,no mfa,1.0,10000.0
+777,1048.0,Jennifer Cornell,female,1,no mfa,1.0,15000.0
+778,1049.0,Jennifer Egan,female,1,no mfa,2.0,35000.0
+779,1050.0,Jennifer Haigh,female,1,University of Iowa,2.0,20000.0
+780,1051.0,Jennifer Nansubugamakumbi,female,0,no mfa,1.0,165000.0
+781,1052.0,Jenniferdu Dubois,female,1,University of Iowa,1.0,50000.0
+782,1053.0,Jenny Johnson,female,1,no mfa,1.0,50000.0
+783,1055.0,Jeremy Ingalls,female,1,no mfa,1.0,10000.0
+784,1056.0,Jeremy O. Harris,male,1,Yale University,1.0,10000.0
+785,1057.0,Jericho Brown,male,1,University of New Orleans,3.0,115000.0
+786,1058.0,Jerome Charyn,male,0,no mfa,1.0,10000.0
+787,1060.0,Jerzy Kosinski,male,1,no mfa,2.0,20000.0
+788,1061.0,Jesmyn Ward,female,1,University of Michigan,4.0,745000.0
+789,1062.0,Jess Row,male,1,University of Michigan,1.0,50000.0
+790,1064.0,Jesse Stuart,male,1,no mfa,2.0,35000.0
+791,1067.0,Jez Butterworth,male,0,no mfa,1.0,10000.0
+792,1068.0,Jhumpa Lahiri,female,1,Boston University,3.0,35000.0
+793,1069.0,Jia Tolentino,female,1,University of Michigan,1.0,50000.0
+794,1072.0,Jill McDonough,female,1,Boston University,1.0,50000.0
+795,1073.0,Jim Crace,male,0,no mfa,2.0,175000.0
+796,1074.0,Jim Grimsley,male,0,no mfa,1.0,10000.0
+797,1075.0,Jim Powell,male,1,no mfa,1.0,500000.0
+798,1078.0,Jm Coetzee,male,1,no mfa,1.0,150000.0
+799,1079.0,Joan Acocella,female,1,no mfa,2.0,30000.0
+800,1080.0,Joan Chase,female,0,no mfa,2.0,60000.0
+801,1081.0,Joan Didion,female,0,no mfa,1.0,10000.0
+802,1082.0,Joan Kane,female,1,Columbia University,1.0,50000.0
+803,1083.0,Joan Larkin,female,1,Brooklyn College,1.0,25000.0
+804,1085.0,Joan Silber,female,1,no mfa,3.0,35000.0
+805,1086.0,Joan Williams,female,0,no mfa,1.0,10000.0
+806,1087.0,Joanie Mackowski,female,1,University of Washington,1.0,10000.0
+807,1088.0,Joann Beard,female,1,no mfa,1.0,50000.0
+808,1089.0,Joanna Klink,female,1,University of Iowa,1.0,10000.0
+809,1090.0,Joanna Scott,female,1,no mfa,2.0,160000.0
+810,1092.0,Jody Gladding,female,1,Cornell University,1.0,50000.0
+811,1094.0,Joe Sacco,male,0,no mfa,1.0,50000.0
+812,1095.0,Joeashby Porter,male,1,no mfa,1.0,10000.0
+813,1096.0,Joel Brouwer,male,1,no mfa,1.0,50000.0
+814,1099.0,Joel Harrington,male,1,no mfa,1.0,10000.0
+815,1101.0,John Ash,male,0,no mfa,1.0,50000.0
+816,1102.0,John Ashberry,male,1,no mfa,2.0,40000.0
+817,1103.0,John Ashbery,male,1,no mfa,7.0,755000.0
+818,1104.0,John Banville,male,0,no mfa,1.0,150000.0
+819,1106.0,John Barth,male,1,no mfa,3.0,170000.0
+820,1107.0,John Berger,male,0,no mfa,2.0,350000.0
+821,1108.0,John Berryman,male,0,no mfa,5.0,70000.0
+822,1111.0,John Blair,male,1,no mfa,1.0,15000.0
+823,1112.0,John Brinckerhoff Jackson,male,0,no mfa,1.0,15000.0
+824,1114.0,John Casey,male,1,University of Iowa,2.0,110000.0
+825,1116.0,John Cheever,male,0,no mfa,4.0,45000.0
+826,1118.0,John Crowe Ransom,male,1,no mfa,3.0,45000.0
+827,1119.0,John Crowley,male,0,no mfa,1.0,10000.0
+828,1122.0,John Edgar Wideman,male,1,University of Iowa,4.0,330000.0
+829,1123.0,John Edwards Williams,male,1,no mfa,1.0,10000.0
+830,1125.0,John Frederick Nimas,male,1,no mfa,3.0,45000.0
+831,1127.0,John Gardner,male,1,no mfa,1.0,10000.0
+832,1128.0,John Gould Fletcher,male,0,no mfa,1.0,15000.0
+833,1129.0,John Gray,male,1,no mfa,1.0,150000.0
+834,1130.0,John Grisham,male,1,no mfa,1.0,40000.0
+835,1132.0,John Haines,male,0,no mfa,4.0,110000.0
+836,1133.0,John Hall Wheelock,male,0,no mfa,1.0,10000.0
+837,1134.0,John Hawkes,male,0,no mfa,2.0,160000.0
+838,1136.0,John Hersey,male,1,no mfa,1.0,15000.0
+839,1137.0,John Hollander,male,1,no mfa,3.0,520000.0
+840,1138.0,John Holman,male,1,no mfa,1.0,50000.0
+841,1140.0,John Hope Franklin,male,1,no mfa,1.0,40000.0
+842,1142.0,John Irving,male,1,University of Iowa,1.0,10000.0
+843,1143.0,John Jeremiah Sullivan,male,0,no mfa,1.0,50000.0
+844,1144.0,John Keene,male,1,New York University,5.0,1010000.0
+845,1145.0,John Kennedy Toole,male,1,no mfa,1.0,15000.0
+846,1146.0,John Knowles,male,0,no mfa,1.0,10000.0
+847,1147.0,John Koethe,male,1,no mfa,3.0,135000.0
+848,1148.0,John Lahr,male,1,no mfa,1.0,20000.0
+849,1149.0,John Lanchester,male,0,no mfa,1.0,10000.0
+850,1151.0,John Logan,male,1,no mfa,2.0,35000.0
+851,1153.0,John Malcolm Brinnin,male,1,no mfa,1.0,10000.0
+852,1154.0,John Marquand,male,0,no mfa,1.0,15000.0
+853,1155.0,John McCormick,male,0,no mfa,1.0,10000.0
+854,1156.0,John McGahern,male,0,no mfa,1.0,150000.0
+855,1157.0,John McManus,male,1,"University of Texas, Austin",2.0,60000.0
+856,1158.0,John McPhee,male,1,no mfa,1.0,10000.0
+857,1159.0,John Morris,male,0,no mfa,1.0,10000.0
+858,1162.0,John O'Hara,male,0,no mfa,2.0,35000.0
+859,1163.0,John Peck,male,1,no mfa,1.0,10000.0
+860,1164.0,John Pipkin,male,1,no mfa,1.0,15000.0
+861,1166.0,John Simon,male,1,no mfa,1.0,10000.0
+862,1167.0,John Steinbeck,male,0,no mfa,1.0,15000.0
+863,1168.0,John Updike,male,0,no mfa,7.0,115000.0
+864,1171.0,John Williams,male,1,no mfa,1.0,10000.0
+865,1172.0,John Wray,male,0,no mfa,1.0,50000.0
+866,1173.0,John Yau,male,1,Brooklyn College,1.0,75000.0
+867,1174.0,John A. Williams,male,0,no mfa,1.0,10000.0
+868,1175.0,Johnclellon Holmes,male,0,no mfa,1.0,10000.0
+869,1176.0,Johnle Carre,male,0,no mfa,1.0,40000.0
+870,1178.0,Johnpatrick Shanley,male,0,no mfa,1.0,10000.0
+871,1179.0,Jon Davis,male,1,University of Montana,1.0,150000.0
+872,1180.0,Jon Krakauer,male,0,no mfa,1.0,10000.0
+873,1181.0,Jon McGregor,male,0,no mfa,1.0,10000.0
+874,1182.0,Jon Stallworthy,male,0,no mfa,1.0,10000.0
+875,1183.0,Jonah Mixon-Webster,male,1,no mfa,1.0,165000.0
+876,1185.0,Jonathan Franzen,male,0,no mfa,2.0,60000.0
+877,1186.0,Jonathan Galassi,male,0,no mfa,1.0,10000.0
+878,1188.0,Jonathan Lethem,male,0,no mfa,1.0,500000.0
+879,1189.0,Jonathan Penner,male,1,University of Iowa,1.0,15000.0
+880,1190.0,Jonathan Safran Foer,male,0,no mfa,1.0,25000.0
+881,1191.0,Jonathan Schell,male,0,no mfa,1.0,10000.0
+882,1192.0,Jonathan Strong,male,0,no mfa,1.0,10000.0
+883,1194.0,Jonathan D. Spence,male,1,no mfa,1.0,20000.0
+884,1195.0,Jonathanevan Maslow,male,1,no mfa,1.0,20000.0
+885,1196.0,Jonrobin Baitz,male,0,no mfa,1.0,10000.0
+886,1197.0,Jorge Guillen,male,1,no mfa,1.0,25000.0
+887,1198.0,Jorie Graham,female,1,University of Iowa,7.0,695000.0
+888,1199.0,Jos Charles,female,1,University of Arizona,1.0,25800.0
+889,1200.0,Jose Olivarez,male,0,no mfa,1.0,25800.0
+890,1201.0,José Rivera,male,0,no mfa,1.0,50000.0
+891,1202.0,Josegarcia Villa,male,1,no mfa,1.0,10000.0
+892,1203.0,Joseph Auslander,male,0,no mfa,5.0,175000.0
+893,1204.0,Joseph Brodsky,male,0,no mfa,3.0,570000.0
+894,1206.0,Joseph Campbell,male,1,no mfa,1.0,10000.0
+895,1208.0,Joseph Frank,male,1,no mfa,1.0,10000.0
+896,1209.0,Joseph Harrison,male,1,no mfa,1.0,10000.0
+897,1210.0,Joseph Heller,male,1,no mfa,1.0,10000.0
+898,1212.0,Joseph Kerman,male,1,no mfa,1.0,10000.0
+899,1214.0,Joseph McElroy,male,1,no mfa,1.0,10000.0
+900,1215.0,Joseph Mitchell,male,0,no mfa,1.0,10000.0
+901,1216.0,Joseph O'Neill,male,1,no mfa,1.0,15000.0
+902,1218.0,Joseph Skibell,male,1,"University of Texas, Austin",1.0,10000.0
+903,1219.0,Joseph Spece,male,1,Columbia University,1.0,25800.0
+904,1220.0,Joseph Stroud,male,1,no mfa,2.0,210000.0
+905,1221.0,Joseph Wittlin,male,0,no mfa,1.0,10000.0
+906,1222.0,Josephine Herbst,female,0,no mfa,1.0,10000.0
+907,1223.0,Josephine Humphreys,female,1,no mfa,2.0,20000.0
+908,1224.0,Josephine Jacobsen,female,0,no mfa,6.0,165000.0
+909,1225.0,Josephine Johnson,female,0,no mfa,2.0,25000.0
+910,1226.0,Josephine Miles,female,1,no mfa,3.0,60000.0
+911,1227.0,Joshua Ferris,male,1,"Univeristy of California, Irvine",2.0,20000.0
+912,1228.0,Joshua Weiner,male,1,no mfa,1.0,50000.0
+913,1229.0,Josip Novakovich,male,1,no mfa,1.0,50000.0
+914,1231.0,Joy Harjo,female,1,University of Iowa,6.0,395000.0
+915,1232.0,Joy Williams,female,1,University of Iowa,2.0,110000.0
+916,1233.0,Joyce Carol Oates,female,1,no mfa,3.0,60000.0
+917,1234.0,Juan Felipe Herrera,male,1,University of Iowa,3.0,105000.0
+918,1236.0,Judith Thurman,female,0,no mfa,1.0,20000.0
+919,1237.0,Judy Blunt,female,1,University of Montana,1.0,50000.0
+920,1238.0,Judy Budnitz,female,1,New York University,1.0,50000.0
+921,1239.0,Judy Troy,female,1,no mfa,1.0,50000.0
+922,1240.0,Julia Glass,female,0,no mfa,1.0,10000.0
+923,1241.0,Julia Peterkin,female,1,no mfa,1.0,15000.0
+924,1242.0,Julia Randall,female,1,no mfa,1.0,10000.0
+925,1243.0,Julian Barnes,male,0,no mfa,1.0,10000.0
+926,1245.0,Juliana Spahr,female,1,no mfa,1.0,10000.0
+927,1246.0,Julie Otsuka,female,1,Columbia University,2.0,25000.0
+928,1247.0,Julie Sheehan,female,1,Columbia University,1.0,50000.0
+929,1248.0,Junot Diaz,male,1,Cornell University,3.0,530000.0
+930,1249.0,Justin Cronin,male,1,University of Iowa,2.0,60000.0
+931,1250.0,Justin Phillip Reed,male,0,no mfa,2.0,35800.0
+932,1251.0,Justin Torres,male,1,University of Iowa,1.0,50000.0
+933,1252.0,Kaitlyn Greenidge,female,1,Hunter College,1.0,50000.0
+934,1253.0,Karan Mahajan,male,1,"University of Texas, Austin",1.0,10000.0
+935,1254.0,Karen Hesse,female,0,no mfa,1.0,500000.0
+936,1255.0,Karen Joy Fowler,female,0,no mfa,1.0,15000.0
+937,1256.0,Karen Russell,female,1,Columbia University,2.0,645000.0
+938,1258.0,Karen Tei Yamashita,female,0,no mfa,1.0,50000.0
+939,1262.0,Karl Marlantes,male,1,no mfa,1.0,15000.0
+940,1263.0,Karl Shapiro,male,0,no mfa,5.0,105000.0
+941,1265.0,Kate Atkinson,female,1,no mfa,1.0,10000.0
+942,1266.0,Kate Christensen,female,1,University of Iowa,1.0,15000.0
+943,1269.0,Kate Moses,female,0,no mfa,1.0,50000.0
+944,1271.0,Kate Wheeler,female,1,no mfa,1.0,50000.0
+945,1272.0,Kate Wisel,female,1,Columba College,1.0,15000.0
+946,1273.0,Katha Pollitt,female,1,Columbia University,1.0,50000.0
+947,1274.0,Katherine Anne Porter,female,0,no mfa,2.0,25000.0
+948,1275.0,Katherine Boo,female,0,no mfa,1.0,10000.0
+949,1277.0,Katherine Larson,female,1,University of Virginia,2.0,35800.0
+950,1279.0,Katherine Seligman,female,1,no mfa,1.0,25000.0
+951,1280.0,Katherine Vaz,female,0,no mfa,1.0,15000.0
+952,1281.0,Kathleen Finneran,female,0,no mfa,1.0,50000.0
+953,1282.0,Kathleen Graber,female,1,New York University,1.0,10000.0
+954,1284.0,Kathleen Peirce,female,1,University of Iowa,1.0,50000.0
+955,1285.0,Kathleen Rooney,female,1,Emerson College,1.0,25800.0
+956,1286.0,Kathryn Davis,female,0,no mfa,2.0,160000.0
+957,1289.0,Katie Ford,female,1,University of Iowa,1.0,50000.0
+958,1291.0,Katie Peterson,female,1,no mfa,1.0,10000.0
+959,1292.0,Kaveh Akbar,male,1,Butler University,1.0,25800.0
+960,1293.0,Kay Boyle,female,0,no mfa,1.0,150000.0
+961,1294.0,Kay Ryan,female,1,no mfa,6.0,720000.0
+962,1295.0,Kayleb Rae Candrilli,nonbinary/they,1,University of Alabama,1.0,50000.0
+963,1296.0,Kayredfield Jamison,female,1,no mfa,1.0,10000.0
+964,1297.0,Kazuo Ishiguro,male,1,no mfa,1.0,40000.0
+965,1299.0,Keith Reddin,male,1,no mfa,1.0,50000.0
+966,1300.0,Keith Waldrop,male,1,no mfa,1.0,10000.0
+967,1301.0,Keller Easterling,female,1,no mfa,1.0,50000.0
+968,1302.0,Kelly Link,female,1,"University of North Carolina, Greensboro",1.0,625000.0
+969,1303.0,Kelly Stuart,female,0,no mfa,1.0,50000.0
+970,1305.0,Ken Smith,male,0,no mfa,1.0,150000.0
+971,1306.0,Kennedy Fraser,female,0,no mfa,1.0,50000.0
+972,1307.0,Kenneth Burke,male,0,no mfa,1.0,10000.0
+973,1308.0,Kenneth Fearing,male,0,no mfa,1.0,10000.0
+974,1309.0,Kenneth Koch,male,1,no mfa,4.0,55000.0
+975,1310.0,Kenneth Rexroth,male,0,no mfa,1.0,10000.0
+976,1311.0,Kent Haruf,male,1,University of Iowa,1.0,50000.0
+977,1312.0,Kent Nelson,male,1,no mfa,1.0,15000.0
+978,1313.0,Kerri Webster,female,1,Indiana University,1.0,50000.0
+979,1314.0,Kevin Barry,male,0,no mfa,1.0,150000.0
+980,1315.0,Kevin Kling,male,0,no mfa,1.0,50000.0
+981,1316.0,Kevin Powers,male,1,"University of Texas, Austin",1.0,10000.0
+982,1317.0,Kevin Young,male,1,Brown University,2.0,75000.0
+983,1319.0,Khaled Mattawa,male,1,Indiana University,2.0,75000.0
+984,1320.0,Khaty Xiong,female,1,University of Montana,1.0,25800.0
+985,1321.0,Kia Corthron,female,1,Columbia University,1.0,15000.0
+986,1323.0,Killarney Clary,female,0,no mfa,1.0,150000.0
+987,1324.0,Kim Edwards,male,1,University of Iowa,1.0,50000.0
+988,1327.0,Kirk Nesset,male,1,no mfa,1.0,15000.0
+989,1328.0,Kirsten Bakis,female,0,no mfa,1.0,50000.0
+990,1329.0,Kurt Vonnegut,male,0,no mfa,1.0,10000.0
+991,1331.0,Kwame Dawes,male,1,no mfa,1.0,165000.0
+992,1332.0,Kyle Dargan,male,1,Indiana University,1.0,25000.0
+993,1334.0,L. B. Thompson,female,1,New York University,1.0,50000.0
+994,1336.0,L. E. Sissman,male,0,no mfa,1.0,10000.0
+995,1337.0,Laila Lalami,female,1,no mfa,1.0,50000.0
+996,1339.0,Laleh Khadivi,female,1,Mills College,1.0,50000.0
+997,1341.0,Lane Dunlop,male,1,no mfa,1.0,10000.0
+998,1342.0,Lanford Wilson,male,0,no mfa,1.0,10000.0
+999,1344.0,Langston Hughes,male,0,no mfa,1.0,10000.0
+1000,1345.0,Larry Heinemann,male,0,no mfa,1.0,10000.0
+1001,1346.0,Larry Kramer,male,0,no mfa,1.0,10000.0
+1002,1347.0,Larry McMurtry,male,1,no mfa,2.0,55000.0
+1003,1348.0,Larry Woiwode,male,0,no mfa,3.0,85000.0
+1004,1349.0,LaTasha N. Nevada Diggs,female,1,California Institute of the Arts,1.0,50000.0
+1005,1351.0,Laura Hendrie,female,0,no mfa,1.0,10000.0
+1006,1352.0,Laura Kasischke,female,1,University of Michigan,1.0,50000.0
+1007,1355.0,Laura Riding Jackson,female,0,no mfa,1.0,10000.0
+1008,1356.0,Laura Vandenberg,female,1,Emerson College,1.0,10000.0
+1009,1358.0,Lauren Yee,female,1,"Univeristy of California, San Diego",1.0,10000.0
+1010,1363.0,Lawrence Naumoff,male,0,no mfa,1.0,50000.0
+1011,1364.0,Lawrence Thornton,male,1,no mfa,1.0,10000.0
+1012,1366.0,Layli Long Soldier,female,1,Bard College,3.0,175000.0
+1013,1367.0,Le Thi Diem Thuy,female,0,no mfa,1.0,50000.0
+1014,1370.0,Leanne Howe,female,1,Vermont College of Fine Arts ,1.0,50000.0
+1015,1372.0,Lee Smith,female,0,no mfa,1.0,10000.0
+1016,1373.0,Leo Steinberg,male,1,no mfa,1.0,10000.0
+1017,1374.0,Leon Edel,male,0,no mfa,1.0,10000.0
+1018,1375.0,Leonard Bacon,male,0,no mfa,1.0,15000.0
+1019,1376.0,Leonard Michaels,male,1,no mfa,1.0,10000.0
+1020,1377.0,Leonard Nathan,male,1,no mfa,1.0,10000.0
+1021,1378.0,Leonie Adams,female,0,no mfa,5.0,115000.0
+1022,1379.0,Leonora Speyer,female,0,no mfa,1.0,15000.0
+1023,1380.0,Leopoldine Core,female,0,no mfa,1.0,50000.0
+1024,1381.0,Lerone Bennettjr,male,0,no mfa,1.0,10000.0
+1025,1383.0,Lesley Nneka Arimah,female,1,Minnesota State University,2.0,100000.0
+1026,1384.0,Leslie Epstein,male,1,Yale University,1.0,10000.0
+1027,1385.0,Leslie Fiedler,male,1,no mfa,1.0,10000.0
+1028,1387.0,Leslie Marmon Silko,female,0,no mfa,4.0,760000.0
+1029,1388.0,Leslie Pietrzyk,female,1,American University,1.0,15000.0
+1030,1391.0,Lewis Robinson,male,1,University of Iowa,1.0,50000.0
+1031,1392.0,Lewis Thomas,male,1,no mfa,1.0,10000.0
+1032,1393.0,Li-Young Lee,male,1,no mfa,3.0,225000.0
+1033,1395.0,Lily King,female,1,no mfa,2.0,100000.0
+1034,1396.0,Lily Tuck,female,1,no mfa,1.0,10000.0
+1035,1397.0,Lin-Manuel Miranda,male,0,no mfa,1.0,10000.0
+1036,1398.0,Lincoln Kirstein,male,0,no mfa,1.0,10000.0
+1037,1399.0,Linda Bierds,female,0,no mfa,1.0,500000.0
+1038,1401.0,Linda Gregerson,female,1,University of Iowa,2.0,110000.0
+1039,1402.0,Linda Gregg,female,1,no mfa,4.0,200000.0
+1040,1403.0,Linda Hogan,female,1,no mfa,1.0,150000.0
+1041,1405.0,Linda Pastan,female,0,no mfa,1.0,100000.0
+1042,1406.0,Ling Ma,female,1,Cornell University,2.0,100000.0
+1043,1407.0,Lionel Abel,male,0,no mfa,1.0,10000.0
+1044,1408.0,Lisa Armstrong,female,1,no mfa,1.0,50000.0
+1045,1409.0,Lisa Halliday,female,0,no mfa,1.0,50000.0
+1046,1410.0,Lisa Ko,female,1,City College of New York,1.0,25000.0
+1047,1412.0,Lisa Shea,female,0,no mfa,1.0,50000.0
+1048,1413.0,Lisel Mueller,female,1,no mfa,3.0,125000.0
+1049,1415.0,Lloyd Frankenberg,male,0,no mfa,1.0,10000.0
+1050,1418.0,Lois-Ann Yamanaka,female,1,no mfa,1.0,150000.0
+1051,1420.0,Lore Segal,female,0,no mfa,1.0,10000.0
+1052,1421.0,Lorna Goodison,female,0,no mfa,1.0,165000.0
+1053,1422.0,Lorrie Moore,female,1,Cornell University,2.0,60000.0
+1054,1423.0,Louis Begley,male,1,no mfa,2.0,20000.0
+1055,1424.0,Louis Bromfield,male,0,no mfa,1.0,15000.0
+1056,1425.0,Louis Edwards,male,0,no mfa,1.0,50000.0
+1057,1428.0,Louis Rubin,male,1,no mfa,1.0,10000.0
+1058,1429.0,Louis Simpson,male,1,no mfa,2.0,25000.0
+1059,1430.0,Louis Untermeyer,male,0,no mfa,3.0,105000.0
+1060,1431.0,Louis Zukovsky,male,1,no mfa,1.0,10000.0
+1061,1433.0,Louis de Bernières,male,1,no mfa,1.0,150000.0
+1062,1434.0,Louise Bogan,female,0,no mfa,5.0,115000.0
+1063,1435.0,Louise Coxe,male,0,no mfa,1.0,25000.0
+1064,1436.0,Louise Erdrich,female,1,no mfa,2.0,35000.0
+1065,1437.0,Louise Gluck,female,0,no mfa,9.0,375000.0
+1066,1438.0,Louise Townsend Nicholl,female,0,no mfa,1.0,25000.0
+1067,1439.0,Loyd Little,male,0,no mfa,1.0,10000.0
+1068,1441.0,Lucas Hnath,male,1,no mfa,1.0,50000.0
+1069,1442.0,Lucas Manning,male,1,University of Iowa,1.0,50000.0
+1070,1443.0,Lucia Perillo,female,1,no mfa,4.0,620000.0
+1071,1445.0,Lucille Clifton,female,0,no mfa,3.0,260000.0
+1072,1446.0,Lucy Grealy,female,1,University of Iowa,1.0,50000.0
+1073,1447.0,Lucy Honig,female,1,no mfa,1.0,15000.0
+1074,1448.0,Lucy Sante,female,0,no mfa,2.0,60000.0
+1075,1449.0,Luis Alberto Urrea,male,1,University of Colorado,1.0,10000.0
+1076,1450.0,Luis Alfaro,male,0,no mfa,1.0,50000.0
+1077,1451.0,Luis Rodriguez,male,0,no mfa,1.0,150000.0
+1078,1452.0,Luis Valdez,male,0,no mfa,1.0,50000.0
+1079,1454.0,Luther Hughes,male,1,Washington University,1.0,25800.0
+1080,1455.0,Lydia Davis,female,0,no mfa,3.0,700000.0
+1081,1456.0,Lydia Millet,female,1,no mfa,1.0,25000.0
+1082,1457.0,Lydia Peelle,female,1,University of Virginia,1.0,50000.0
+1083,1458.0,Lyn Hejinian,female,0,no mfa,1.0,25000.0
+1084,1460.0,Lynn Emmanuel,female,1,University of Iowa,1.0,25000.0
+1085,1461.0,Lynn Nottage,female,1,Yale University,1.0,10000.0
+1086,1462.0,Lynne McMahon,female,1,no mfa,1.0,10000.0
+1087,1464.0,Lysley Tenorio,male,1,University of Oregon,1.0,50000.0
+1088,1465.0,M. H. Abrams,male,1,no mfa,1.0,10000.0
+1089,1466.0,M. B. Tolson,male,1,no mfa,1.0,10000.0
+1090,1467.0,Maaza Mengiste,female,1,New York University,1.0,10000.0
+1091,1468.0,Mackinlay Kantor,male,0,no mfa,1.0,15000.0
+1092,1469.0,Madeleine George,female,1,New York University,1.0,50000.0
+1093,1470.0,Madeline Defrees,female,1,no mfa,1.0,25000.0
+1094,1471.0,Madison Smart Bell,male,1,no mfa,1.0,100000.0
+1095,1472.0,Maeve Brennan,female,0,no mfa,1.0,10000.0
+1096,1473.0,Margaret Ayer Barnes,female,0,no mfa,1.0,15000.0
+1097,1474.0,Maggie Nelson,female,1,no mfa,1.0,625000.0
+1098,1475.0,Mai Der Vang,female,1,no mfa,1.0,50000.0
+1099,1476.0,Maile Meloy,female,1,"Univeristy of California, Irvine",1.0,10000.0
+1100,1477.0,Major Jackson,male,1,University of Oregon,1.0,50000.0
+1101,1478.0,Malachi Black,male,1,"University of Texas, Austin",1.0,25800.0
+1102,1479.0,Malcolm Cowley,male,0,no mfa,1.0,10000.0
+1103,1480.0,Malena Mörling,female,1,University of Iowa,1.0,50000.0
+1104,1482.0,Manil Suri,male,1,no mfa,1.0,25000.0
+1105,1484.0,Manuel Muñoz,male,1,Cornell University,1.0,50000.0
+1106,1485.0,Marc Bittner,male,0,no mfa,1.0,25800.0
+1107,1488.0,Marcus Wicker,male,1,Indiana University,1.0,25800.0
+1108,1489.0,Margaret Atwood,female,1,no mfa,1.0,40000.0
+1109,1490.0,Margaret Drabble,female,0,no mfa,1.0,10000.0
+1110,1493.0,Margaret Mitchell,female,0,no mfa,1.0,15000.0
+1111,1494.0,Margaret Talbot,female,1,no mfa,1.0,50000.0
+1112,1495.0,Margaret Widdemer,female,0,no mfa,1.0,15000.0
+1113,1496.0,Margaret Wilson,female,1,no mfa,1.0,15000.0
+1114,1497.0,Margaret Wrinkle,female,1,no mfa,1.0,15000.0
+1115,1500.0,Marguerite Young,female,1,no mfa,1.0,10000.0
+1116,1502.0,Mariairene Fornes,female,0,no mfa,1.0,10000.0
+1117,1503.0,Marianne Boruch,female,1,"University of Massachusetts, Amherst",1.0,100000.0
+1118,1504.0,Marianne Moore,female,0,no mfa,5.0,70000.0
+1119,1505.0,Marianne Wiggins,female,0,no mfa,1.0,50000.0
+1120,1506.0,Marie Arana,female,1,no mfa,1.0,10000.0
+1121,1508.0,Marie Howe,female,1,Columbia University,1.0,25000.0
+1122,1509.0,Marie Ponsot,female,1,no mfa,2.0,110000.0
+1123,1510.0,Marilyn Chin,female,1,University of Iowa,3.0,160000.0
+1124,1511.0,Marilyn Hacker,female,0,no mfa,3.0,45000.0
+1125,1512.0,Marilyn Nelson,female,1,no mfa,1.0,100000.0
+1126,1513.0,Marilynne Robinson,female,1,no mfa,6.0,190000.0
+1127,1514.0,Marina Carr,female,0,no mfa,1.0,10000.0
+1128,1516.0,Marisha Pessl,female,0,no mfa,1.0,15000.0
+1129,1518.0,Marius Bewley,male,1,no mfa,1.0,10000.0
+1130,1519.0,Marjorie Kinnan Rawlings,female,0,no mfa,1.0,15000.0
+1131,1520.0,Marjorie Kowalski Cole,female,1,no mfa,1.0,25000.0
+1132,1525.0,Mark Cox,male,1,Vermont College of Fine Arts ,1.0,50000.0
+1133,1526.0,Mark Doty,male,1,Goddard College,3.0,70000.0
+1134,1527.0,Mark Harris,male,1,no mfa,1.0,10000.0
+1135,1528.0,Mark Helprin,male,1,no mfa,1.0,40000.0
+1136,1529.0,Mark Jarman,male,1,University of Iowa,1.0,25000.0
+1137,1531.0,Mark Levine,male,1,University of Iowa,1.0,50000.0
+1138,1533.0,Mark Nowak,male,1,Bowling Green State University,1.0,50000.0
+1139,1534.0,Mark Polizzotti,male,1,no mfa,1.0,10000.0
+1140,1535.0,Mark Richard,male,0,no mfa,2.0,60000.0
+1141,1538.0,Mark Slouka,male,1,no mfa,1.0,15000.0
+1142,1539.0,Mark Strand,male,1,University of Iowa,9.0,740000.0
+1143,1540.0,Mark Turpin,male,0,no mfa,1.0,50000.0
+1144,1541.0,Mark Van Doren,male,1,no mfa,2.0,40000.0
+1145,1543.0,Marlon James,male,1,no mfa,1.0,10000.0
+1146,1544.0,Marsha Norman,female,1,no mfa,1.0,10000.0
+1147,1548.0,Martha Nussbaum,female,1,no mfa,1.0,15000.0
+1148,1550.0,Martha Zweig,female,1,Warren Wilson College,1.0,50000.0
+1149,1551.0,Martin Duberman,male,1,no mfa,1.0,10000.0
+1150,1552.0,Martin Espada,male,1,no mfa,3.0,175000.0
+1151,1553.0,Martin Flavin,male,0,no mfa,1.0,15000.0
+1152,1554.0,Martin Greenberg,male,0,no mfa,1.0,10000.0
+1153,1555.0,Marvin Bell,male,1,University of Iowa,1.0,10000.0
+1154,1558.0,Mary Gaitskill,female,0,no mfa,1.0,10000.0
+1155,1559.0,Mary Gordon,female,1,no mfa,1.0,10000.0
+1156,1560.0,Mary Hood,female,0,no mfa,1.0,50000.0
+1157,1562.0,Mary Karr,female,1,Goddard College,1.0,50000.0
+1158,1563.0,Mary Kinzie,female,1,no mfa,1.0,10000.0
+1159,1564.0,Mary Lachapelle,female,1,Vermont College of Fine Arts ,1.0,50000.0
+1160,1565.0,Mary Lee Settle,female,1,Vermont College of Fine Arts ,2.0,20000.0
+1161,1566.0,Mary McCarthy,female,0,no mfa,1.0,10000.0
+1162,1568.0,Mary Morrissy,female,0,no mfa,1.0,150000.0
+1163,1569.0,Mary Oliver,female,1,no mfa,4.0,185000.0
+1164,1570.0,Mary Rakow,female,1,no mfa,1.0,50000.0
+1165,1571.0,Mary Robison,female,1,no mfa,1.0,10000.0
+1166,1572.0,Mary Ruefle,female,0,no mfa,3.0,80000.0
+1167,1573.0,Mary Swander,female,1,University of Iowa,1.0,50000.0
+1168,1574.0,Mary Szybist,female,1,University of Iowa,1.0,10000.0
+1169,1575.0,Mary Ward Brown,female,0,no mfa,1.0,10000.0
+1170,1577.0,Marya Zaturenska,female,0,no mfa,1.0,15000.0
+1171,1578.0,Marykay Zuravleff,female,1,Johns Hopkins University,1.0,10000.0
+1172,1579.0,Marym Colum,female,0,no mfa,1.0,10000.0
+1173,1580.0,Mat Johnson,male,1,Columbia University,1.0,50000.0
+1174,1581.0,Matt Collinsworth,male,1,Ohio State University,1.0,15000.0
+1175,1582.0,Matt Donovan,male,1,New York University,1.0,50000.0
+1176,1583.0,Matthea Harvey,female,1,University of Iowa,2.0,110000.0
+1177,1585.0,Matthew Dickman,male,1,"University of Texas, Austin",1.0,10000.0
+1178,1586.0,Matthew Klam,male,1,Hollins College,2.0,75000.0
+1179,1587.0,Matthew Lopez,male,0,no mfa,1.0,10000.0
+1180,1588.0,Matthew Nienow,male,1,University of Washington,1.0,25800.0
+1181,1589.0,Matthew Stadler,male,1,Columbia University,3.0,110000.0
+1182,1591.0,Maureen Howard,female,0,no mfa,1.0,10000.0
+1183,1597.0,Mavis Gallant,female,0,no mfa,1.0,50000.0
+1184,1601.0,Maxine Kumin,female,1,no mfa,6.0,220000.0
+1185,1602.0,Maxine Swann,female,1,no mfa,1.0,20000.0
+1186,1603.0,Maxinehong Kingston,female,0,no mfa,1.0,10000.0
+1187,1604.0,Maxwell Geismar,male,1,no mfa,1.0,10000.0
+1188,1606.0,May Swenson,female,0,no mfa,4.0,545000.0
+1189,1607.0,Maya Sonenberg,female,1,no mfa,1.0,15000.0
+1190,1608.0,Meg Miroshnik,female,1,Yale University,1.0,50000.0
+1191,1610.0,Megan Grumbling,female,1,no mfa,1.0,25800.0
+1192,1612.0,Megan McDowell,female,1,no mfa,1.0,10000.0
+1193,1615.0,Melanie Rae Thon,female,0,no mfa,1.0,50000.0
+1194,1616.0,Melanie Sumner,female,1,Boston University,1.0,50000.0
+1195,1617.0,Melissa James Gibson,female,1,Yale University,1.0,50000.0
+1196,1619.0,Melissa Yancy,female,1,University of Southern California,1.0,15000.0
+1197,1621.0,Merritt Tierce,female,1,University of Iowa,1.0,50000.0
+1198,1622.0,Mia Alvar,female,1,Columbia University,1.0,25000.0
+1199,1624.0,Michael Burkard,male,1,University of Iowa,1.0,50000.0
+1200,1625.0,Michael Byers,male,1,University of Michigan,1.0,50000.0
+1201,1626.0,Michael Chabon,male,1,"Univeristy of California, Irvine",2.0,55000.0
+1202,1627.0,Michael Collier,male,1,University of Arizona,1.0,10000.0
+1203,1628.0,Michael Cunningham,male,1,University of Iowa,3.0,80000.0
+1204,1629.0,Michael Dahlie,male,1,Washington University,2.0,60000.0
+1205,1630.0,Michael Fried,male,1,no mfa,1.0,10000.0
+1206,1632.0,Michael Harper,male,1,University of Iowa,1.0,10000.0
+1207,1633.0,Michael Haskell,male,0,no mfa,1.0,50000.0
+1208,1634.0,Michael Herr,male,0,no mfa,1.0,10000.0
+1209,1637.0,Michael McGriff,male,1,"University of Texas, Austin",2.0,75800.0
+1210,1638.0,Michael Meyer,male,0,no mfa,1.0,50000.0
+1211,1639.0,Michael Palmer,male,1,no mfa,2.0,110000.0
+1212,1640.0,Michael Rutherglen,male,1,University of Iowa,1.0,25800.0
+1213,1641.0,Michael Ryan,male,1,University of Iowa,3.0,175000.0
+1214,1643.0,Michael Shaara,male,0,no mfa,1.0,15000.0
+1215,1644.0,Michael Wasson,male,1,Oregon State University,1.0,25800.0
+1216,1647.0,Michaelr Jackson,male,1,Tisch School of the Arts,1.0,50000.0
+1217,1648.0,Micheline Marcom,female,1,Mills College,3.0,150000.0
+1218,1649.0,Michelle Huneven,female,1,University of Iowa,1.0,50000.0
+1219,1651.0,Michelle Tea,female,0,no mfa,1.0,15000.0
+1220,1655.0,Miller Oberman,male,1,no mfa,1.0,25800.0
+1221,1656.0,Miller Williams,male,1,no mfa,1.0,10000.0
+1222,1657.0,Milton Lott,male,0,no mfa,1.0,10000.0
+1223,1658.0,Mimi Lok,female,1,San Francisco State University,1.0,10000.0
+1224,1660.0,Mindy Aloff,female,1,no mfa,1.0,50000.0
+1225,1661.0,Miriam Bird Greenberg,female,1,"University of Texas, Austin",1.0,25800.0
+1226,1662.0,Mischa Berlinski,male,0,no mfa,2.0,60000.0
+1227,1663.0,Mitchell Jackson,male,1,New York University,2.0,100000.0
+1228,1666.0,Molly Gloss,female,0,no mfa,1.0,50000.0
+1229,1668.0,Molly McCully Brown,female,1,University of Mississippi,1.0,50000.0
+1230,1670.0,Mona Mansour,female,0,no mfa,1.0,50000.0
+1231,1671.0,Mona Simpson,female,1,Columbia University,2.0,60000.0
+1232,1672.0,Mona Van Duyn,female,1,no mfa,7.0,230000.0
+1233,1674.0,Monique Truong,female,1,no mfa,2.0,35000.0
+1234,1675.0,Morgan Meis,male,1,no mfa,1.0,50000.0
+1235,1676.0,Morton D. Zabel,male,1,no mfa,1.0,10000.0
+1236,1678.0,Muriel Rukeyser,female,0,no mfa,1.0,10000.0
+1237,1679.0,Murray Kempton,male,0,no mfa,1.0,10000.0
+1238,1682.0,N. K. Jemisin,female,1,no mfa,1.0,625000.0
+1239,1683.0,N. Scott Momaday,male,1,no mfa,2.0,25000.0
+1240,1684.0,Nadeem Aslam,male,0,no mfa,1.0,50000.0
+1241,1685.0,Nadia Owusu,female,1,Southern New Hampshire University,1.0,50000.0
+1242,1687.0,Nafissa Thompson-Spires,female,1,University of Illinois,1.0,50000.0
+1243,1688.0,Nami Mun,female,1,University of Michigan,1.0,50000.0
+1244,1689.0,Namwali Serpell,female,1,no mfa,1.0,165000.0
+1245,1690.0,Nan Nan,female,0,no mfa,1.0,15000.0
+1246,1691.0,Nana Kwame Adjei-Brenyah,male,1,Syracuse University,1.0,75000.0
+1247,1692.0,Nancy Eimers,female,1,University of Houston,1.0,50000.0
+1248,1695.0,Naomi Benaron,female,1,Antioch College,1.0,25000.0
+1249,1696.0,Naomi Iizuka,female,1,"Univeristy of California, San Diego",1.0,50000.0
+1250,1697.0,Naomi Shihab Nye,female,0,no mfa,1.0,50000.0
+1251,1698.0,Naomi Wallace,female,1,University of Iowa,1.0,10000.0
+1252,1699.0,Natalie Diaz,female,1,Old Dominion University,3.0,725000.0
+1253,1700.0,Natalie Kusz,female,1,University of Alaska Fairbanks,1.0,50000.0
+1254,1701.0,Natalie Scenters-Zapico,female,1,University of New Mexico,2.0,75800.0
+1255,1702.0,Natalie Shapero,female,1,Ohio State University,1.0,25800.0
+1256,1703.0,Natasha Trethewey,female,1,"University of Massachusetts, Amherst",6.0,155000.0
+1257,1704.0,Natasha Wimmer,female,0,no mfa,1.0,10000.0
+1258,1705.0,Nate Klug,male,1,no mfa,1.0,25800.0
+1259,1706.0,Nate Marshall,male,1,University of Michigan,1.0,25800.0
+1260,1707.0,Nathan Bartel,male,1,University of Montana,1.0,25800.0
+1261,1709.0,Nathanalan Davis,male,1,Indiana University,1.0,50000.0
+1262,1710.0,Nathaniel Mackey,male,1,no mfa,5.0,180000.0
+1263,1711.0,Neil Labute,male,1,New York University,1.0,10000.0
+1264,1712.0,Neil Simon,male,1,no mfa,1.0,40000.0
+1265,1713.0,Nell Freudenberger,female,0,no mfa,1.0,50000.0
+1266,1715.0,Nelson Algren,male,0,no mfa,3.0,45000.0
+1267,1716.0,Newton Arvin,male,0,no mfa,1.0,10000.0
+1268,1717.0,Nguyen Phan Que Mai,female,1,no mfa,1.0,50000.0
+1269,1720.0,Nicholas Friedman,male,1,Cornell University,1.0,25800.0
+1270,1722.0,Nick Arvin,male,1,University of Iowa,1.0,10000.0
+1271,1724.0,Nick Hornby,male,0,no mfa,1.0,10000.0
+1272,1725.0,Nicky Beer,female,1,University of Houston,1.0,25800.0
+1273,1729.0,Nikky Finney,female,1,no mfa,4.0,185000.0
+1274,1730.0,Nilo Cruz,male,1,Brown University,1.0,50000.0
+1275,1731.0,Nina Marie Martínez,female,0,no mfa,1.0,50000.0
+1276,1735.0,Norman Corwin,male,0,no mfa,1.0,10000.0
+1277,1736.0,Norman Cousins,male,0,no mfa,1.0,40000.0
+1278,1737.0,Norman Fruchter,male,0,no mfa,1.0,10000.0
+1279,1738.0,Norman Mailer,male,0,no mfa,3.0,65000.0
+1280,1740.0,Norman Rosten,male,1,no mfa,1.0,10000.0
+1281,1741.0,Norman Rush,male,0,no mfa,2.0,20000.0
+1282,1742.0,Norman Williams,male,0,no mfa,1.0,10000.0
+1283,1743.0,Noviolet Bulawayo,female,1,Cornell University,1.0,10000.0
+1284,1744.0,Novuyo Rosa Tshuma,female,1,University of Iowa,1.0,50000.0
+1285,1745.0,Ocean Vuong,male,1,New York University,4.0,750800.0
+1286,1746.0,Octavia Butler,female,0,no mfa,1.0,500000.0
+1287,1747.0,Oliver Gogarty,male,0,no mfa,1.0,25000.0
+1288,1748.0,Oliver La Farge,male,1,no mfa,1.0,15000.0
+1289,1749.0,Oliver Sacks,male,0,no mfa,1.0,20000.0
+1290,1750.0,Olivia Clare,female,1,University of Iowa,1.0,25800.0
+1291,1751.0,Olympia Vernon,female,1,Louisiana State University,1.0,10000.0
+1292,1755.0,Oscar Hijuelos,male,1,no mfa,1.0,15000.0
+1293,1758.0,Ottessa Moshfegh,female,1,Brown University,1.0,10000.0
+1294,1759.0,P. M. Pasinetti,male,1,no mfa,1.0,10000.0
+1295,1760.0,Padgett Powell,male,1,University of Houston,1.0,50000.0
+1296,1761.0,Padraic Colum,male,0,no mfa,1.0,25000.0
+1297,1762.0,Page Smith,male,1,no mfa,1.0,10000.0
+1298,1764.0,Pam Durban,female,1,University of Iowa,1.0,50000.0
+1299,1770.0,Patricia Smith,female,1,University of Southern Maine,3.0,135000.0
+1300,1771.0,Patricia Spears Jones,female,1,Vermont College of Fine Arts ,1.0,75000.0
+1301,1772.0,Patricia Storace,female,1,no mfa,1.0,50000.0
+1302,1773.0,Patrick Cottrell,male,1,Art Institute of Chicago,1.0,50000.0
+1303,1774.0,Patrick O'Keefe,male,1,University of Michigan,1.0,50000.0
+1304,1775.0,Patrick Phillips,male,1,University of Maryland,1.0,10000.0
+1305,1776.0,Patrick Rosal,male,1,Sarah Lawrence College,1.0,25000.0
+1306,1777.0,Pattiann Rogers,female,1,no mfa,2.0,300000.0
+1307,1778.0,Paul Auster,male,1,no mfa,1.0,10000.0
+1308,1779.0,Paul Bailey,male,0,no mfa,1.0,10000.0
+1309,1780.0,Paul Beatty,male,1,Brooklyn College,1.0,10000.0
+1310,1781.0,Paul Bowles,male,1,no mfa,1.0,10000.0
+1311,1782.0,Paul Clemens,male,0,no mfa,1.0,50000.0
+1312,1784.0,Paul Farley,male,0,no mfa,1.0,10000.0
+1313,1785.0,Paul Fussell,male,1,no mfa,1.0,10000.0
+1314,1786.0,Paul Goodman,male,1,no mfa,1.0,10000.0
+1315,1788.0,Paul Guest,male,1,Southern Illinois State University,1.0,50000.0
+1316,1789.0,Paul Harding,male,1,University of Iowa,2.0,40000.0
+1317,1792.0,Paul Metcalf,male,0,no mfa,1.0,10000.0
+1318,1793.0,Paul Muldoon,male,0,no mfa,2.0,25000.0
+1319,1796.0,Paul Theroux,male,0,no mfa,1.0,10000.0
+1320,1797.0,Paul Tran,male,1,Washington University,1.0,25800.0
+1321,1798.0,Paul Violi,male,0,no mfa,1.0,10000.0
+1322,1799.0,Paul West,male,1,no mfa,2.0,160000.0
+1323,1801.0,Paul Zimmer,male,0,no mfa,1.0,10000.0
+1324,1803.0,Paula Fox,female,0,no mfa,2.0,35000.0
+1325,1804.0,Paula Gunn Allen,female,1,University of Oregon,1.0,50000.0
+1326,1805.0,Paula Vogel,female,1,no mfa,1.0,10000.0
+1327,1806.0,Paule Marshall,female,0,no mfa,1.0,10000.0
+1328,1807.0,Pauline Hanson,unknown,0,no mfa,1.0,10000.0
+1329,1808.0,Pauline Kael,female,0,no mfa,1.0,10000.0
+1330,1809.0,Pearl Buck,female,0,no mfa,1.0,15000.0
+1331,1810.0,Penelope Gilliatt,female,0,no mfa,1.0,10000.0
+1332,1812.0,Percival Everett,male,1,Brown University,1.0,10000.0
+1333,1813.0,Percy Mackaye,male,0,no mfa,1.0,25000.0
+1334,1814.0,Pete Dexter,male,0,no mfa,1.0,10000.0
+1335,1815.0,Peter Bagge,male,0,no mfa,1.0,50000.0
+1336,1816.0,Peter Balakian,male,1,no mfa,1.0,15000.0
+1337,1817.0,Peter Brown,male,0,no mfa,1.0,20000.0
+1338,1819.0,Peter Carey,male,0,no mfa,1.0,20000.0
+1339,1820.0,Peter Cole,male,0,no mfa,2.0,510000.0
+1340,1821.0,Peter Dale Scott,male,1,no mfa,1.0,150000.0
+1341,1822.0,Peter Davison,male,0,no mfa,1.0,10000.0
+1342,1823.0,Peter Everwine,male,1,no mfa,1.0,10000.0
+1343,1825.0,Peter Matthiessen,male,0,no mfa,4.0,210000.0
+1344,1826.0,Peter Orner,male,1,University of Iowa,1.0,50000.0
+1345,1827.0,Peter Pouncey,male,1,no mfa,1.0,20000.0
+1346,1829.0,Peter Reading,male,0,no mfa,1.0,150000.0
+1347,1830.0,Peter Schjeldahl,male,0,no mfa,1.0,20000.0
+1348,1831.0,Peter Taylor,male,0,no mfa,3.0,40000.0
+1349,1832.0,Peter Trachtenberg,male,1,no mfa,1.0,50000.0
+1350,1833.0,Peter Viereck,male,1,no mfa,1.0,15000.0
+1351,1834.0,Peterde Vries,male,0,no mfa,1.0,10000.0
+1352,1835.0,Phil Klay,male,0,no mfa,1.0,10000.0
+1353,1836.0,Philip Booth,male,1,no mfa,2.0,35000.0
+1354,1838.0,Philip Kitcher,male,1,no mfa,1.0,150000.0
+1355,1839.0,Philip Levine,male,1,University of Iowa,9.0,340000.0
+1356,1840.0,Philip Metres,male,1,Indiana University,1.0,50000.0
+1357,1843.0,Philip Roth,male,1,no mfa,8.0,115000.0
+1358,1844.0,Philip Schultz,male,1,University of Iowa,2.0,25000.0
+1359,1845.0,Philip Whalen,male,0,no mfa,1.0,10000.0
+1360,1846.0,Philip Williams,male,1,Washington University,3.0,85800.0
+1361,1848.0,Phyllis McGinley,female,0,no mfa,1.0,15000.0
+1362,1851.0,Priscilla Robertson,female,0,no mfa,1.0,10000.0
+1363,1853.0,R. H. W. Dillard,male,1,no mfa,1.0,10000.0
+1364,1855.0,R. S. Jones,male,1,no mfa,1.0,50000.0
+1365,1856.0,R. W. B. Lewis,female,1,no mfa,1.0,10000.0
+1366,1857.0,Rachel Hadas,female,1,no mfa,2.0,20000.0
+1367,1858.0,Rachel Ingalls,female,0,no mfa,1.0,10000.0
+1368,1859.0,Rachel Kushner,female,1,Columbia University,1.0,20000.0
+1369,1860.0,Rachel Seiffert,female,0,no mfa,1.0,10000.0
+1370,1861.0,Rae Armantrout,female,1,San Francisco State University,1.0,15000.0
+1371,1864.0,Rafi Zabor,male,0,no mfa,1.0,15000.0
+1372,1865.0,Rajiv Joseph,male,1,New York University,2.0,60000.0
+1373,1866.0,Ralph Ellison,male,0,no mfa,1.0,10000.0
+1374,1867.0,Ralph Lombreglia,male,1,no mfa,1.0,50000.0
+1375,1868.0,Ralph Manheim,male,1,no mfa,1.0,10000.0
+1376,1869.0,Randall Jarrell,male,1,no mfa,5.0,125000.0
+1377,1870.0,Randall Kenan,male,0,no mfa,1.0,50000.0
+1378,1871.0,Randall Silvis,male,0,no mfa,1.0,15000.0
+1379,1873.0,Rattawut Lapcharoensap,male,1,University of Michigan,1.0,50000.0
+1380,1874.0,Raven Leilani,female,1,New York University,2.0,65000.0
+1381,1875.0,Ray Bradbury,male,0,no mfa,2.0,50000.0
+1382,1876.0,Raymond Abbott,male,0,no mfa,1.0,50000.0
+1383,1877.0,Raymond Carver,male,1,University of Iowa,1.0,100000.0
+1384,1879.0,Rebecca Gayle Howell,female,1,Drew University,1.0,50000.0
+1385,1880.0,Rebecca Goldstein,female,1,no mfa,1.0,50000.0
+1386,1882.0,Rebecca Seiferle,female,1,Warren Wilson College,1.0,50000.0
+1387,1884.0,Reed Whittemore,male,0,no mfa,5.0,165000.0
+1388,1885.0,Reginald Dwayne Betts,male,1,University of Maryland,1.0,25800.0
+1389,1886.0,Reginald Gibbons,male,1,no mfa,1.0,10000.0
+1390,1887.0,Reginald McKnight,male,1,no mfa,3.0,75000.0
+1391,1888.0,Reinaldo Povod,male,0,no mfa,1.0,50000.0
+1392,1889.0,Renata Adler,female,1,no mfa,2.0,20000.0
+1393,1891.0,Reuben Bercovitch,unknown,0,no mfa,1.0,10000.0
+1394,1892.0,Reuel Denney,male,0,no mfa,1.0,10000.0
+1395,1893.0,Reynolds Price,male,0,no mfa,1.0,10000.0
+1396,1894.0,Richard Bankowsky,male,1,University of Iowa,1.0,10000.0
+1397,1895.0,Richard Bausch,male,1,University of Iowa,1.0,10000.0
+1398,1898.0,Richard Chase,male,0,no mfa,1.0,10000.0
+1399,1899.0,Richard Eberhart,male,1,no mfa,8.0,175000.0
+1400,1901.0,Richard Ford,male,1,"Univeristy of California, Irvine",5.0,105000.0
+1401,1902.0,Richard Foreman,male,1,Yale University,1.0,10000.0
+1402,1904.0,Richard Howard,male,1,no mfa,5.0,575000.0
+1403,1905.0,Richard Hugo,male,1,no mfa,1.0,25000.0
+1404,1906.0,Richard Kenney,male,0,no mfa,2.0,650000.0
+1405,1907.0,Richard Lange,male,0,no mfa,1.0,10000.0
+1406,1909.0,Richard Nelson,male,0,no mfa,1.0,10000.0
+1407,1910.0,Richard Poirier,male,1,no mfa,1.0,10000.0
+1408,1911.0,Richard Powers,male,1,no mfa,6.0,705000.0
+1409,1912.0,Richard Price,male,1,Columbia University,1.0,10000.0
+1410,1913.0,Richard Russo,male,1,University of Arizona,1.0,15000.0
+1411,1914.0,Richard Sieburth,male,1,no mfa,1.0,10000.0
+1412,1918.0,Richard Wilbur,male,1,no mfa,8.0,320000.0
+1413,1919.0,Richard Wiley,male,1,University of Iowa,1.0,15000.0
+1414,1920.0,Richard Yates,male,0,no mfa,2.0,20000.0
+1415,1921.0,Richardg Stern,male,1,no mfa,2.0,35000.0
+1416,1922.0,Richie Hofmann,male,1,Johns Hopkins University,1.0,25800.0
+1417,1923.0,Richmond Lattimore,male,1,no mfa,2.0,35000.0
+1418,1924.0,Rick Atkinson,male,1,no mfa,1.0,40000.0
+1419,1925.0,Rick Demarinis,male,0,no mfa,2.0,25000.0
+1420,1926.0,Rick Hilles,male,1,Columbia University,1.0,50000.0
+1421,1927.0,Rick Hillis,male,1,University of Iowa,1.0,15000.0
+1422,1928.0,Rick Moody,male,1,Columbia University,2.0,20000.0
+1423,1929.0,Rick Rofihe,male,0,no mfa,1.0,50000.0
+1424,1931.0,Rickey Laurentiis,male,1,Washington University,3.0,125800.0
+1425,1932.0,Ridgely Torrence,male,0,no mfa,1.0,25000.0
+1426,1933.0,Rigoberto González,male,1,University of Arizona,3.0,125000.0
+1427,1935.0,Rikki Ducornet,female,0,no mfa,3.0,310000.0
+1428,1936.0,Rilla Askew,female,1,Brooklyn College,1.0,10000.0
+1429,1937.0,Rinne Groff,female,1,New York University,1.0,50000.0
+1430,1938.0,Rion Amilcar Scott,male,1,George Mason University,1.0,25000.0
+1431,1939.0,Rita Dove,female,1,University of Iowa,5.0,220000.0
+1432,1943.0,Robert Alter,male,1,no mfa,1.0,10000.0
+1433,1944.0,Robert Bly,male,1,University of Iowa,2.0,20000.0
+1434,1948.0,Robert Coffin,male,1,no mfa,1.0,15000.0
+1435,1949.0,Robert Cohen,male,1,Columbia University,1.0,50000.0
+1436,1950.0,Robert Coover,male,1,no mfa,2.0,160000.0
+1437,1951.0,Robert Craft,male,0,no mfa,1.0,10000.0
+1438,1952.0,Robert Creeley,male,1,no mfa,2.0,210000.0
+1439,1953.0,Robert D. Richardson,male,1,no mfa,1.0,10000.0
+1440,1954.0,Robert Fagles,male,1,no mfa,1.0,10000.0
+1441,1955.0,Robert Fitzgerald,male,0,no mfa,3.0,80000.0
+1442,1957.0,Robert Francis,male,1,no mfa,1.0,25000.0
+1443,1958.0,Robert Frost,male,0,no mfa,8.0,165000.0
+1444,1962.0,Robert Hass,male,1,no mfa,9.0,755000.0
+1445,1963.0,Robert Hayden,male,1,no mfa,4.0,130000.0
+1446,1964.0,Robert Hillyer,male,1,no mfa,1.0,15000.0
+1447,1965.0,Robert Horan,male,0,no mfa,1.0,10000.0
+1448,1966.0,Robert Hughes,male,0,no mfa,1.0,10000.0
+1449,1968.0,Robert Kelly,male,1,no mfa,1.0,10000.0
+1450,1970.0,Robert Lewis Taylor,male,0,no mfa,1.0,15000.0
+1451,1972.0,Robert Lowell,male,1,no mfa,6.0,120000.0
+1452,1973.0,Robert Macfarlane,male,1,no mfa,1.0,10000.0
+1453,1974.0,Robert Mezey,male,1,no mfa,1.0,10000.0
+1454,1975.0,Robert Morgan,male,1,"University of North Carolina, Greensboro",1.0,10000.0
+1455,1977.0,Robert Olen Butler,male,1,no mfa,2.0,25000.0
+1456,1979.0,Robert Pack,male,1,no mfa,1.0,10000.0
+1457,1980.0,Robert Penn Warren,male,1,no mfa,10.0,705000.0
+1458,1981.0,Robert Phillips,male,1,no mfa,1.0,10000.0
+1459,1982.0,Robert Pinsky,male,1,no mfa,6.0,175000.0
+1460,1985.0,Robert Stone,male,1,no mfa,3.0,120000.0
+1461,1987.0,Robert Watson,male,1,no mfa,1.0,10000.0
+1462,1988.0,Robert Wrigley,male,1,University of Montana,1.0,100000.0
+1463,1989.0,Roberta Caro,male,0,no mfa,1.0,10000.0
+1464,1990.0,Robertm Pirsig,male,1,no mfa,1.0,10000.0
+1465,1993.0,Robin Cooper-Stone,female,0,no mfa,1.0,15000.0
+1466,1994.0,Robin Coste Lewis,female,1,New York University,2.0,60000.0
+1467,1995.0,Robin Robertson,male,0,no mfa,1.0,10000.0
+1468,1996.0,Robinson Jeffers,male,0,no mfa,1.0,25000.0
+1469,1997.0,Robley Wilson,male,1,University of Iowa,1.0,15000.0
+1470,1999.0,Rodney Jones,male,1,University of North Carolina,1.0,100000.0
+1471,2000.0,Roger Fanning,male,1,no mfa,1.0,50000.0
+1472,2001.0,Roger Reeves,male,1,"University of Texas, Austin",2.0,75800.0
+1473,2002.0,Roger Shattuck,male,0,no mfa,1.0,10000.0
+1474,2004.0,Rolf Fjelde,male,1,Columbia University,1.0,10000.0
+1475,2005.0,Rolfe Humphries,male,0,no mfa,1.0,25000.0
+1476,2006.0,Romulus Linney,male,1,Yale University,1.0,10000.0
+1477,2009.0,Ron Childress,male,0,no mfa,1.0,25000.0
+1478,2010.0,Ron Curriejr,male,0,no mfa,1.0,10000.0
+1479,2011.0,Ron Hansen,male,1,University of Iowa,1.0,10000.0
+1480,2012.0,Ron Padgett,male,0,no mfa,1.0,10000.0
+1481,2013.0,Ronald L. Fair,male,0,no mfa,1.0,10000.0
+1482,2014.0,Ronald Sukenick,male,1,no mfa,1.0,10000.0
+1483,2015.0,Rosanna Warren,female,1,Johns Hopkins University,1.0,25000.0
+1484,2016.0,Rosellen Brown,female,0,no mfa,1.0,10000.0
+1485,2017.0,Rosemary Mahoney,female,1,no mfa,1.0,50000.0
+1486,2018.0,Rosina Lippi,female,1,no mfa,1.0,10000.0
+1487,2019.0,Ross Gay,male,1,Sarah Lawrence College,1.0,100000.0
+1488,2020.0,Rowan Ricardo Phillips,male,1,no mfa,1.0,50000.0
+1489,2024.0,Roy Guzman,male,1,University of Minnesota,1.0,25800.0
+1490,2025.0,Roy Scranton,male,1,no mfa,1.0,50000.0
+1491,2026.0,Rs Thomas,male,0,no mfa,1.0,150000.0
+1492,2028.0,Ruchika Tomar,female,1,Columbia University,1.0,10000.0
+1493,2030.0,Russ Rymer,male,0,no mfa,1.0,50000.0
+1494,2031.0,Russell Banks,male,0,no mfa,1.0,10000.0
+1495,2032.0,Russell Edson,male,0,no mfa,1.0,50000.0
+1496,2034.0,Ruth Prawer Jhabala,female,0,no mfa,2.0,510000.0
+1497,2036.0,Ruth Stone,female,0,no mfa,3.0,160000.0
+1498,2037.0,Ruthven Todd,male,0,no mfa,1.0,10000.0
+1499,2038.0,Rv Cassill,male,1,no mfa,1.0,10000.0
+1500,2039.0,Ryan Call,male,1,George Mason University,1.0,50000.0
+1501,2040.0,Sabina Murray,female,1,no mfa,1.0,15000.0
+1502,2041.0,Safia Elhillo,female,1,New School for Social Research,1.0,25800.0
+1503,2042.0,Safiya Sinclair,female,1,University of Virginia,3.0,85800.0
+1504,2043.0,Sally Rooney,female,1,no mfa,1.0,10000.0
+1505,2044.0,Salvatore Scibona,male,1,University of Iowa,1.0,50000.0
+1506,2045.0,Sam Sax,male,1,"University of Texas, Austin",1.0,25800.0
+1507,2046.0,Sam Shepard,male,0,no mfa,1.0,10000.0
+1508,2047.0,Samantha Gillison,female,0,no mfa,1.0,50000.0
+1509,2048.0,Samrat Upadhyay,male,1,no mfa,1.0,50000.0
+1510,2052.0,Samuel Hunter,male,1,University of Iowa,1.0,50000.0
+1511,2053.0,Samuel Hynes,male,1,no mfa,1.0,10000.0
+1512,2054.0,Sandra Benitez,female,1,no mfa,1.0,50000.0
+1513,2055.0,Sandra Cisneros,female,1,University of Iowa,3.0,700000.0
+1514,2057.0,Sandra Lim,female,1,University of Iowa,1.0,10000.0
+1515,2058.0,Sandra McPherson,female,0,no mfa,1.0,10000.0
+1516,2060.0,Sanford Friedman,male,0,no mfa,1.0,10000.0
+1517,2061.0,Saïd Sayrafiezadeh,male,0,no mfa,1.0,50000.0
+1518,2062.0,Sapphire Sapphire,female,1,Brooklyn College,1.0,50000.0
+1519,2063.0,Sara Baume,female,0,no mfa,1.0,50000.0
+1520,2064.0,Sara Teasdale,female,0,no mfa,1.0,15000.0
+1521,2066.0,Sarah Hall,female,1,no mfa,1.0,10000.0
+1522,2068.0,Sarah Lindsay,male,1,"University of North Carolina, Greensboro",1.0,50000.0
+1523,2069.0,Sarah M. Broom,female,1,no mfa,1.0,50000.0
+1524,2070.0,Sarah Ruhl,female,1,Brown University,1.0,50000.0
+1525,2071.0,Sarah Shun Lien Bynum,female,1,University of Iowa,1.0,50000.0
+1526,2072.0,Saskia Hamilton,female,1,no mfa,1.0,15000.0
+1527,2073.0,Saul Bellow,male,1,no mfa,6.0,95000.0
+1528,2075.0,Scott Blackwood,male,1,Texas State University,1.0,50000.0
+1529,2076.0,Scott McPherson,male,0,no mfa,1.0,50000.0
+1530,2080.0,Seamus Heaney,male,0,no mfa,1.0,10000.0
+1531,2081.0,Sean Brian Bishop,male,1,University of Houston,1.0,25800.0
+1532,2082.0,Sean O'Brien,male,0,no mfa,1.0,10000.0
+1533,2085.0,Serio De La Pava,male,1,no mfa,1.0,25000.0
+1534,2086.0,Seth Kantner,male,1,no mfa,1.0,50000.0
+1535,2087.0,Shane McCrae,male,1,University of Iowa,2.0,100000.0
+1536,2088.0,Shannon Cain,female,1,Warren Wilson College,1.0,15000.0
+1537,2090.0,Sharifa Rhodes Pitts,female,0,no mfa,1.0,50000.0
+1538,2091.0,Sharon Cameron,female,1,no mfa,1.0,20000.0
+1539,2092.0,Sharon Olds,female,1,no mfa,4.0,190000.0
+1540,2093.0,Shawn Vestal,male,1,Eastern Washington University,1.0,25000.0
+1541,2095.0,Sheila Callaghan,female,1,"University of California, Los Angeles",1.0,50000.0
+1542,2097.0,Shelby Foote,male,0,no mfa,1.0,40000.0
+1543,2098.0,Shelby Hearon,female,0,no mfa,1.0,10000.0
+1544,2099.0,Sheldon Wolin,male,1,no mfa,1.0,150000.0
+1545,2100.0,Sherman Alexie,male,0,no mfa,1.0,15000.0
+1546,2101.0,Sherod Santos,male,1,"Univeristy of California, Irvine",1.0,10000.0
+1547,2102.0,Sherwin Bitsui,male,0,no mfa,2.0,100000.0
+1548,2104.0,Shirley Ann Grau,male,0,no mfa,1.0,15000.0
+1549,2105.0,Shirley Graham,female,1,no mfa,1.0,10000.0
+1550,2106.0,Shirley Hazzard,female,0,no mfa,2.0,20000.0
+1551,2107.0,Sigrid Nunez,female,1,Columbia University,3.0,70000.0
+1552,2108.0,Simon Armitage,male,1,no mfa,1.0,150000.0
+1553,2109.0,Simon Schama,male,1,no mfa,1.0,10000.0
+1554,2110.0,Simone White,female,1,New School for Social Research,1.0,50000.0
+1555,2111.0,Sinclair Lewis,male,0,no mfa,1.0,15000.0
+1556,2112.0,Sinéad Morrissey,female,1,no mfa,2.0,60000.0
+1557,2113.0,Siri Hustvedt,female,1,no mfa,1.0,10000.0
+1558,2114.0,Solmaz Sharif,female,1,New York University,2.0,75800.0
+1559,2116.0,Sonia Sanchez,female,0,no mfa,1.0,100000.0
+1560,2118.0,Spencer Holst,male,0,no mfa,1.0,10000.0
+1561,2119.0,Spencer Reece,male,1,no mfa,2.0,60000.0
+1562,2120.0,St John Perse,male,0,no mfa,1.0,25000.0
+1563,2122.0,Stacy Schiff,female,0,no mfa,1.0,10000.0
+1564,2124.0,Stanley Burnshaw,male,1,no mfa,1.0,10000.0
+1565,2125.0,Stanley Crouch,male,0,no mfa,1.0,50000.0
+1566,2126.0,Stanley Elkin,male,1,no mfa,2.0,20000.0
+1567,2127.0,Stanley Fish,male,1,no mfa,1.0,15000.0
+1568,2128.0,Stanley Kunitz,male,1,no mfa,11.0,270000.0
+1569,2129.0,Stanley Plumly,male,1,no mfa,1.0,10000.0
+1570,2130.0,Stanleyedgar Hyman,male,0,no mfa,1.0,10000.0
+1571,2134.0,Stephanie Powell Watts,female,1,no mfa,1.0,50000.0
+1572,2136.0,Stephen Adly Guirgis,male,0,no mfa,2.0,60000.0
+1573,2138.0,Stephen Dixon,male,1,no mfa,1.0,10000.0
+1574,2139.0,Stephen Dunn,male,1,no mfa,2.0,25000.0
+1575,2140.0,Stephen Orgel,male,1,no mfa,1.0,10000.0
+1576,2141.0,Stephen Sandy,male,1,no mfa,1.0,10000.0
+1577,2142.0,Stephen Sexton,male,1,no mfa,1.0,10000.0
+1578,2144.0,Stephen Spender,male,0,no mfa,2.0,70000.0
+1579,2145.0,Stephen Vincent Benét,male,1,no mfa,2.0,30000.0
+1580,2146.0,Stephen Wright,male,1,University of Iowa,2.0,200000.0
+1581,2148.0,Stephenjay Gould,male,1,no mfa,1.0,20000.0
+1582,2150.0,Sterling Brown,male,1,no mfa,1.0,25000.0
+1583,2151.0,Steve Erickson,male,1,no mfa,2.0,210000.0
+1584,2156.0,Steven Millhauser,male,0,no mfa,3.0,175000.0
+1585,2157.0,Stewart Justman,male,1,no mfa,1.0,15000.0
+1586,2158.0,Stewart O'Nan,male,1,Cornell University,1.0,15000.0
+1587,2159.0,Stuart Dybek,male,1,University of Iowa,4.0,710000.0
+1588,2162.0,Sujikwock Kim,female,1,University of Iowa,2.0,60000.0
+1589,2163.0,Suketu Mehta,male,1,University of Iowa,1.0,50000.0
+1590,2164.0,Sumita Chakraborty,female,0,no mfa,1.0,25800.0
+1591,2166.0,Susan Choi,female,1,Cornell University,2.0,20000.0
+1592,2167.0,Susan Howe,female,0,no mfa,1.0,10000.0
+1593,2170.0,Susan Mitchell,female,1,no mfa,2.0,250000.0
+1594,2171.0,Susan Muaddi Darraj,female,1,no mfa,1.0,50000.0
+1595,2172.0,Susan Nussbaum,female,0,no mfa,1.0,25000.0
+1596,2173.0,Susan Power,female,1,University of Iowa,2.0,60000.0
+1597,2174.0,Susan Sontag,female,1,no mfa,2.0,20000.0
+1598,2175.0,Susan Steinberg,female,1,"University of Massachusetts, Amherst",1.0,50000.0
+1599,2176.0,Susan Stewart,female,1,Johns Hopkins University,2.0,510000.0
+1600,2177.0,Susan Straight,female,1,"University of Massachusetts, Amherst",1.0,150000.0
+1601,2180.0,Susanna Daniel,female,1,University of Iowa,1.0,25000.0
+1602,2182.0,Susanna Moore,female,0,no mfa,1.0,10000.0
+1603,2183.0,Suzan-Lori Parks,female,0,no mfa,2.0,60000.0
+1604,2184.0,Suzannah Lessard,female,0,no mfa,1.0,50000.0
+1605,2185.0,Suzanne Gardinier,female,1,Columbia University,1.0,150000.0
+1606,2186.0,Suzanne Greenberg,female,1,University of Maryland,1.0,15000.0
+1607,2189.0,Sylvia Moss,female,0,no mfa,1.0,50000.0
+1608,2190.0,Sylvia Plath,female,0,no mfa,1.0,15000.0
+1609,2192.0,T. Coraghessan Boyle,male,1,University of Iowa,2.0,35000.0
+1610,2194.0,T. Zahary Cotler,male,1,University of Iowa,1.0,25800.0
+1611,2195.0,Tanehisi Coates,male,0,no mfa,3.0,650000.0
+1612,2196.0,Tarfia Faizullah,female,1,Virginia Commonwealth University,1.0,50000.0
+1613,2197.0,Tarrell McCraney,male,1,Yale University,1.0,50000.0
+1614,2198.0,Tayari Jones,female,1,University of Arizona,1.0,50000.0
+1615,2200.0,Ted Kooser,male,1,no mfa,4.0,120000.0
+1616,2201.0,Teddy Wayne,male,1,Washington University,1.0,50000.0
+1617,2202.0,Teju Cole,male,1,no mfa,4.0,235000.0
+1618,2203.0,Tennessee Williams,male,0,no mfa,1.0,10000.0
+1619,2204.0,Terese Marie Mailhot,female,1,Institute of American Indian Arts,1.0,50000.0
+1620,2205.0,Terrance Hayes,male,1,University of Pittsburgh,6.0,755000.0
+1621,2206.0,Terrence McNally,male,0,no mfa,1.0,10000.0
+1622,2207.0,Terrencedes Pres,male,1,University of Pittsburgh,1.0,10000.0
+1623,2210.0,Tessa Hadley,female,0,no mfa,1.0,165000.0
+1624,2211.0,Tgeronimo Johnson,male,1,University of Iowa,1.0,50000.0
+1625,2212.0,Theodore Dreiser,male,0,no mfa,1.0,25000.0
+1626,2213.0,Theodore Roethke,male,1,no mfa,5.0,55000.0
+1627,2215.0,Thom Gunn,male,1,no mfa,4.0,560000.0
+1628,2216.0,Thom Jones,male,1,University of Iowa,1.0,20000.0
+1629,2217.0,Thomas Berger,male,1,New School for Social Research,1.0,10000.0
+1630,2218.0,Thomas Centolella,male,1,no mfa,1.0,150000.0
+1631,2221.0,Thomas Keneally,male,0,no mfa,1.0,40000.0
+1632,2222.0,Thomas Lux,male,0,no mfa,1.0,100000.0
+1633,2224.0,Thomas Mallon,male,1,no mfa,1.0,20000.0
+1634,2225.0,Thomas Mann,male,0,no mfa,1.0,25000.0
+1635,2226.0,Thomas McGrath,male,1,no mfa,1.0,25000.0
+1636,2227.0,Thomas McGuane,male,1,Yale University,1.0,10000.0
+1637,2228.0,Thomas Mcmahon,male,1,no mfa,1.0,10000.0
+1638,2229.0,Thomas Nagel,male,1,no mfa,1.0,15000.0
+1639,2230.0,Thomas Pynchon,male,0,no mfa,4.0,620000.0
+1640,2231.0,Thomas Rogers,male,1,no mfa,1.0,10000.0
+1641,2232.0,Thomas Sancton,male,0,no mfa,1.0,10000.0
+1642,2233.0,Thomas Sayers Ellis,male,1,Brown University,1.0,50000.0
+1643,2235.0,Thomas Stribling,male,0,no mfa,1.0,15000.0
+1644,2236.0,Thomas Whiteside,male,0,no mfa,1.0,500000.0
+1645,2237.0,Thomas Williams,male,1,University of Iowa,1.0,10000.0
+1646,2238.0,Thornton Wilder,male,1,no mfa,2.0,25000.0
+1647,2241.0,Thylias Moss,female,1,no mfa,2.0,550000.0
+1648,2242.0,Tiana Clarke,female,1,Vanderbilt University,1.0,10000.0
+1649,2243.0,Tillie Olsen,female,1,no mfa,1.0,10000.0
+1650,2244.0,Tim O'Brien,male,1,no mfa,2.0,20000.0
+1651,2245.0,Tim Pears,male,0,no mfa,1.0,150000.0
+1652,2247.0,Timberlake Wertenbaker,female,0,no mfa,1.0,50000.0
+1653,2248.0,Timothy Donnelly,male,1,Columbia University,1.0,100000.0
+1654,2250.0,Timothy Mo,male,0,no mfa,1.0,10000.0
+1655,2251.0,Timothy Snyder,male,1,no mfa,1.0,10000.0
+1656,2252.0,Tina Hall,female,1,Bowling Green State University,1.0,15000.0
+1657,2253.0,Tina Howe,female,0,no mfa,1.0,10000.0
+1658,2254.0,Tiphanie Yanique,female,1,University of Houston,2.0,25000.0
+1659,2255.0,Tobias Wolff,male,1,no mfa,3.0,75000.0
+1660,2256.0,Toby Olson,male,1,no mfa,1.0,15000.0
+1661,2257.0,Todd James Pierce,male,1,"Univeristy of California, Irvine",1.0,15000.0
+1662,2260.0,Tom Cole,male,1,no mfa,1.0,10000.0
+1663,2264.0,Tom McCarthy,male,0,no mfa,1.0,165000.0
+1664,2265.0,Tom Sleigh,male,1,Johns Hopkins University,3.0,130000.0
+1665,2266.0,Tom Wolfe,male,1,no mfa,1.0,20000.0
+1666,2267.0,Tommy Orange,male,1,Institute of American Indian Arts,3.0,35000.0
+1667,2268.0,Tommy Pico,male,0,no mfa,1.0,50000.0
+1668,2270.0,Toni Morrison,female,1,no mfa,4.0,90000.0
+1669,2271.0,Tony Hoagland,male,1,University of Arizona,3.0,95000.0
+1670,2273.0,Tony Kushner,male,1,no mfa,2.0,60000.0
+1671,2274.0,Tony Tulathimutte,male,1,University of Iowa,1.0,50000.0
+1672,2275.0,Tracy Letts,male,0,no mfa,1.0,10000.0
+1673,2276.0,Tracy Smith,female,1,Columbia University,6.0,195000.0
+1674,2277.0,Tracy Wilson,female,1,no mfa,1.0,50000.0
+1675,2279.0,Trudy Dittmar,female,1,Columbia University,1.0,50000.0
+1676,2280.0,Truman Capote,male,0,no mfa,1.0,10000.0
+1677,2282.0,Tyehimba Jess,male,1,New York University,3.0,215000.0
+1678,2283.0,Tyree Daye,male,1,North Carolina State University,1.0,50000.0
+1679,2284.0,Upton Sinclair,male,0,no mfa,1.0,15000.0
+1680,2286.0,Ursula Leguin,female,1,no mfa,2.0,35000.0
+1681,2287.0,Valeria Luiselli,female,1,no mfa,2.0,635000.0
+1682,2290.0,Valzhyna Mort,male,1,American University,1.0,50000.0
+1683,2292.0,Vance Bourjaily,male,0,no mfa,1.0,10000.0
+1684,2293.0,Vanessa Angélica Villarreal,female,1,University of Colorado,1.0,50000.0
+1685,2294.0,Vanessa Veselka,female,0,no mfa,1.0,25000.0
+1686,2296.0,Ved Mehta,male,1,no mfa,1.0,500000.0
+1687,2299.0,Vicki Hearne,female,1,no mfa,1.0,10000.0
+1688,2302.0,Victor Lavalle,male,1,Columbia University,2.0,100000.0
+1689,2303.0,Viet Thanh Nguyen,male,1,no mfa,4.0,665000.0
+1690,2304.0,Vievee Francis,female,1,University of Michigan,1.0,100000.0
+1691,2305.0,Vijay Seshadri,male,1,Columbia University,2.0,25000.0
+1692,2306.0,Vincent McHugh,male,0,no mfa,1.0,10000.0
+1693,2308.0,Virgil Geddes,male,0,no mfa,1.0,10000.0
+1694,2309.0,Virginia Grise,female,1,no mfa,1.0,50000.0
+1695,2310.0,Vladimir Nabokov,male,0,no mfa,2.0,35000.0
+1696,2311.0,Vu Tran,male,1,University of Iowa,1.0,50000.0
+1697,2312.0,W. D. Snodgrass,male,1,University of Iowa,3.0,50000.0
+1698,2313.0,W. David Hancock,male,1,University of Iowa,1.0,50000.0
+1699,2315.0,W. H. Auden,male,0,no mfa,4.0,60000.0
+1700,2316.0,W. S. DiPiero,male,1,no mfa,1.0,100000.0
+1701,2317.0,Walker Percy,male,0,no mfa,2.0,20000.0
+1702,2318.0,Wallace Fowlie,male,1,no mfa,1.0,20000.0
+1703,2319.0,Wallace Shawn,male,1,no mfa,1.0,10000.0
+1704,2320.0,Wallace Stegner,male,1,no mfa,2.0,25000.0
+1705,2321.0,Wallace Stevens,male,1,no mfa,4.0,45000.0
+1706,2322.0,Walter Abish,male,0,no mfa,3.0,540000.0
+1707,2324.0,Walter J. Bate,male,1,no mfa,1.0,10000.0
+1708,2325.0,Walter Kerr,male,1,no mfa,1.0,10000.0
+1709,2327.0,Walter Wetherell,male,0,no mfa,1.0,15000.0
+1710,2328.0,Wanda Coleman,female,0,no mfa,1.0,25000.0
+1711,2329.0,Warren Miller,male,1,no mfa,1.0,10000.0
+1712,2330.0,Wayétu Moore,female,1,University of Southern California,1.0,50000.0
+1713,2331.0,Wayne Koestenbaum,male,1,no mfa,2.0,60000.0
+1714,2332.0,Wayne Miller,male,1,University of Houston,1.0,25800.0
+1715,2333.0,Wd Wetherell,male,0,no mfa,1.0,100000.0
+1716,2334.0,Weike Wang,female,0,no mfa,2.0,60000.0
+1717,2335.0,Wendell Berry,male,1,no mfa,2.0,50000.0
+1718,2339.0,Wendy Xu,female,1,"University of Massachusetts, Amherst",1.0,25800.0
+1719,2341.0,Wesley McNair,male,1,no mfa,1.0,50000.0
+1720,2343.0,Whitney Balliett,male,0,no mfa,1.0,10000.0
+1721,2345.0,Wilfred Sheed,male,1,no mfa,1.0,10000.0
+1722,2346.0,Will Alexander,male,0,no mfa,1.0,75000.0
+1723,2347.0,Will Arbery,male,1,Northwestern University,1.0,50000.0
+1724,2348.0,Will Eno,male,0,no mfa,1.0,10000.0
+1725,2349.0,Will Heinrich,male,0,no mfa,1.0,25000.0
+1726,2350.0,Will Mackin,male,0,no mfa,1.0,25000.0
+1727,2351.0,Willa Cather,female,0,no mfa,1.0,15000.0
+1728,2354.0,William Alfred,male,1,no mfa,1.0,10000.0
+1729,2356.0,William Arrowsmith,male,1,no mfa,1.0,10000.0
+1730,2357.0,William Barrett,male,0,no mfa,1.0,10000.0
+1731,2358.0,William Bronk,male,0,no mfa,2.0,160000.0
+1732,2359.0,William Carlos Williams,male,0,no mfa,3.0,50000.0
+1733,2360.0,William Dickey,male,1,University of Iowa,1.0,10000.0
+1734,2361.0,William Faulkner,male,0,no mfa,4.0,50000.0
+1735,2362.0,William Gaddis,male,0,no mfa,5.0,680000.0
+1736,2363.0,William Gass,male,1,no mfa,4.0,200000.0
+1737,2364.0,William Gay,male,0,no mfa,1.0,50000.0
+1738,2365.0,William Humphrey,male,0,no mfa,1.0,10000.0
+1739,2366.0,William Jay Smith,male,1,no mfa,3.0,105000.0
+1740,2367.0,William Kennedy,male,0,no mfa,3.0,555000.0
+1741,2369.0,William Krasner,male,0,no mfa,1.0,10000.0
+1742,2370.0,William Manchester,male,1,no mfa,1.0,40000.0
+1743,2371.0,William Matthews,male,1,no mfa,1.0,100000.0
+1744,2372.0,William Maxwell,male,1,no mfa,2.0,20000.0
+1745,2373.0,William Meredith,male,0,no mfa,7.0,165000.0
+1746,2380.0,William Rose Benét,male,0,no mfa,1.0,15000.0
+1747,2381.0,William Stafford,male,1,no mfa,4.0,90000.0
+1748,2382.0,William Styron,male,0,no mfa,2.0,25000.0
+1749,2383.0,William T. Vollman,male,0,no mfa,4.0,170000.0
+1750,2384.0,William Trevor,male,0,no mfa,1.0,150000.0
+1751,2385.0,William Wall,male,0,no mfa,1.0,15000.0
+1752,2386.0,William Weaver,male,1,no mfa,1.0,10000.0
+1753,2388.0,Williammelvin Kelley,male,0,no mfa,1.0,10000.0
+1754,2389.0,Williams Burroughs,male,0,no mfa,1.0,10000.0
+1755,2393.0,Wm Spackman,male,1,no mfa,1.0,20000.0
+1756,2394.0,Wmorri Creech,male,1,McNeese State University,1.0,15000.0
+1757,2395.0,Wright Morris,male,0,no mfa,4.0,80000.0
+1758,2396.0,W. S. Merwin,male,0,no mfa,13.0,590000.0
+1759,2397.0,Xj Kennedy,male,1,no mfa,1.0,75000.0
+1760,2398.0,Yaa Gyasi,female,1,University of Iowa,1.0,10000.0
+1761,2399.0,Yannick Murphy,female,0,no mfa,1.0,50000.0
+1762,2400.0,Yiyun Li,female,1,University of Iowa,6.0,820000.0
+1763,2401.0,Yona Harvey,female,1,Ohio State University,1.0,10000.0
+1764,2402.0,Young Jean Lee,female,1,Brooklyn College,1.0,10000.0
+1765,2403.0,Yusef Komunyakaa,male,1,"Univeristy of California, Irvine",5.0,325000.0
+1766,2404.0,Yvor Winters,male,1,no mfa,2.0,20000.0
+1767,2405.0,Yxta Maya Murray,female,1,no mfa,1.0,50000.0
+1768,2406.0,Z. Z. Packer,female,1,University of Iowa,1.0,50000.0
+1769,2407.0,Zachary Lazar,male,1,University of Iowa,1.0,20000.0
+1770,2409.0,Zarina Mullan Plath,female,0,no mfa,1.0,15000.0
+1771,2410.0,Zoe Wicomb,female,0,no mfa,1.0,165000.0
